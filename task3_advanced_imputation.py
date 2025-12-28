@@ -46,22 +46,22 @@ def create_sample_data_with_missing():
     # Introduce missing values with different patterns
     # Random missing values (MCAR - Missing Completely At Random)
     missing_indices_age = np.random.choice(n_samples, size=int(n_samples * 0.15), replace=False)
-    df.loc[missing_indices_age, 'age'] = np.nan
+    df.loc[missing_indices_age.tolist(), 'age'] = np.nan
     
     missing_indices_income = np.random.choice(n_samples, size=int(n_samples * 0.20), replace=False)
-    df.loc[missing_indices_income, 'income'] = np.nan
+    df.loc[missing_indices_income.tolist(), 'income'] = np.nan
     
     missing_indices_exp = np.random.choice(n_samples, size=int(n_samples * 0.12), replace=False)
-    df.loc[missing_indices_exp, 'experience'] = np.nan
+    df.loc[missing_indices_exp.tolist(), 'experience'] = np.nan
     
     missing_indices_credit = np.random.choice(n_samples, size=int(n_samples * 0.18), replace=False)
-    df.loc[missing_indices_credit, 'credit_score'] = np.nan
+    df.loc[missing_indices_credit.tolist(), 'credit_score'] = np.nan
     
     missing_indices_dept = np.random.choice(n_samples, size=int(n_samples * 0.10), replace=False)
-    df.loc[missing_indices_dept, 'department'] = np.nan
+    df.loc[missing_indices_dept.tolist(), 'department'] = np.nan
     
     missing_indices_proj = np.random.choice(n_samples, size=int(n_samples * 0.08), replace=False)
-    df.loc[missing_indices_proj, 'project_count'] = np.nan
+    df.loc[missing_indices_proj.tolist(), 'project_count'] = np.nan
     
     return df
 
