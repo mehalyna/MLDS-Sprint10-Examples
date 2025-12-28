@@ -1,0 +1,501 @@
+education,experience,performance,credit_rating,size,priority,age,years_of_service,salary,salary_category,education_encoded,experience_encoded,performance_encoded,credit_rating_encoded,size_encoded,priority_encoded
+Bachelor's,Mid,Below Average,Good,M,High,55,20,90299.68192023311,Very High,1,2,1.0,2.0,2.0,2.0
+PhD,Mid,Average,Good,M,High,37,4,128085.02974788348,Very High,3,2,2.0,2.0,2.0,2.0
+Bachelor's,Junior,Good,Poor,XL,Medium,43,26,73417.84661600238,High,1,1,3.0,0.0,4.0,1.0
+Bachelor's,Senior,Good,Good,M,Critical,53,22,93170.22144399733,Very High,1,3,3.0,2.0,2.0,3.0
+High School,Mid,Good,Good,M,Low,59,19,71059.719926932,High,0,2,3.0,2.0,2.0,0.0
+High School,Junior,Good,Good,L,Low,29,28,51306.25265616928,Medium,0,1,3.0,2.0,3.0,0.0
+High School,Expert,Good,Good,M,High,29,19,98153.61430376899,Very High,0,4,3.0,2.0,2.0,2.0
+Master's,Senior,Good,Good,L,Medium,27,24,120716.94233671126,Very High,2,3,3.0,2.0,3.0,1.0
+Bachelor's,Expert,Average,Good,S,High,35,5,111118.8238355084,Very High,1,4,2.0,2.0,1.0,2.0
+Bachelor's,Senior,Average,Very Good,M,High,53,3,102043.26405740336,Very High,1,3,2.0,3.0,2.0,2.0
+High School,Mid,Average,Very Good,XS,Low,56,1,59853.14245908964,Medium,0,2,2.0,3.0,0.0,0.0
+PhD,Mid,Excellent,Very Good,S,High,31,21,118236.64857078233,Very High,3,2,4.0,3.0,1.0,2.0
+Master's,Expert,Excellent,Excellent,XL,Medium,24,15,132388.20406891053,Very High,2,4,4.0,4.0,4.0,1.0
+High School,Senior,Poor,Poor,S,Medium,33,17,85563.44187494963,High,0,3,0.0,0.0,1.0,1.0
+High School,Entry,Good,Fair,L,Medium,52,4,36853.68303153606,Low,0,0,3.0,1.0,3.0,1.0
+High School,Entry,Excellent,Poor,M,Critical,50,21,47668.638549582494,Low,0,0,4.0,0.0,2.0,3.0
+High School,Junior,Below Average,Good,M,Low,26,3,47320.992684738514,Low,0,1,1.0,2.0,2.0,0.0
+Bachelor's,Senior,Average,Very Good,XL,Medium,46,29,91463.21021203526,Very High,1,3,2.0,3.0,4.0,1.0
+Bachelor's,Expert,Excellent,Fair,XS,Medium,62,12,114417.3778002567,Very High,1,4,4.0,1.0,0.0,1.0
+High School,Junior,Poor,Excellent,L,High,52,18,56179.058100034694,Medium,0,1,0.0,4.0,3.0,2.0
+Bachelor's,Mid,Good,Poor,XXL,Medium,42,22,84220.50911031666,High,1,2,3.0,0.0,5.0,1.0
+High School,Junior,Average,Excellent,L,Low,41,1,47258.563517546994,Low,0,1,2.0,4.0,3.0,0.0
+High School,Expert,Excellent,Good,XL,Low,60,12,100800.09112926394,Very High,0,4,4.0,2.0,4.0,0.0
+Bachelor's,Senior,Excellent,Fair,S,Medium,43,10,102508.91368083772,Very High,1,3,4.0,1.0,1.0,1.0
+Bachelor's,Senior,Excellent,Good,M,High,25,29,105586.99407951231,Very High,1,3,4.0,2.0,2.0,2.0
+Master's,Mid,Average,Fair,M,Low,34,21,112242.49614946463,Very High,2,2,2.0,1.0,2.0,0.0
+High School,Mid,Good,Fair,L,Low,63,28,63201.15677105457,Medium,0,2,3.0,1.0,3.0,0.0
+Bachelor's,Junior,Good,Good,XXL,Critical,41,3,63369.761569589806,Medium,1,1,3.0,2.0,5.0,3.0
+Bachelor's,Entry,Average,Very Good,M,Low,34,21,57932.67419438362,Medium,1,0,2.0,3.0,2.0,0.0
+High School,Senior,Good,Good,L,Critical,38,19,81301.40253291444,High,0,3,3.0,2.0,3.0,3.0
+Bachelor's,Senior,Poor,Good,S,Medium,57,19,95181.20536894695,Very High,1,3,0.0,2.0,1.0,1.0
+High School,Expert,Average,Good,L,High,54,14,95214.24542552479,Very High,0,4,2.0,2.0,3.0,2.0
+High School,Expert,Average,Very Good,M,Low,22,3,101718.93940774942,Very High,0,4,2.0,3.0,2.0,0.0
+Master's,Mid,Below Average,Fair,XXL,Low,36,8,104756.73824214774,Very High,2,2,1.0,1.0,5.0,0.0
+PhD,Senior,Below Average,Good,L,High,34,6,140163.98497705793,Very High,3,3,1.0,2.0,3.0,2.0
+Master's,Expert,Good,Fair,M,High,38,18,136207.52332649965,Very High,2,4,3.0,1.0,2.0,2.0
+High School,Senior,Average,Fair,S,High,45,18,78847.99642897116,High,0,3,2.0,1.0,1.0,2.0
+High School,Junior,Good,Very Good,S,Low,29,5,45378.834278658476,Low,0,1,3.0,3.0,1.0,0.0
+Bachelor's,Mid,Below Average,Fair,M,High,48,5,89450.99205562394,High,1,2,1.0,1.0,2.0,2.0
+Bachelor's,Entry,Average,Good,M,High,44,19,65176.24667361876,Medium,1,0,2.0,2.0,2.0,2.0
+High School,Expert,Average,Very Good,XL,Medium,29,14,90769.06068880954,Very High,0,4,2.0,3.0,4.0,1.0
+Bachelor's,Mid,Good,Fair,L,High,29,14,80352.44569903795,High,1,2,3.0,1.0,3.0,2.0
+High School,Junior,Average,Good,L,High,47,24,42517.353724549605,Low,0,1,2.0,2.0,3.0,2.0
+Master's,Mid,Good,Fair,S,Medium,34,19,101749.88032796551,Very High,2,2,3.0,1.0,1.0,1.0
+High School,Mid,Good,Excellent,XL,Low,60,8,64582.810151048194,Medium,0,2,3.0,4.0,4.0,0.0
+Bachelor's,Junior,Good,Good,L,Medium,58,3,62751.773901507346,Medium,1,1,3.0,2.0,3.0,1.0
+High School,Entry,Average,Very Good,S,Low,49,17,35390.70093437343,Low,0,0,2.0,3.0,1.0,0.0
+Bachelor's,Mid,Poor,Good,L,Medium,46,17,79980.21313959251,High,1,2,0.0,2.0,3.0,1.0
+Bachelor's,Mid,Good,Poor,L,Medium,37,4,86036.33664699472,High,1,2,3.0,0.0,3.0,1.0
+High School,Senior,Poor,Good,S,Low,23,19,80346.72168518126,High,0,3,0.0,2.0,1.0,0.0
+PhD,Mid,Good,Excellent,M,Medium,39,22,121391.31223331373,Very High,3,2,3.0,4.0,2.0,1.0
+Master's,Senior,Average,Good,M,Low,38,29,120884.10436069699,Very High,2,3,2.0,2.0,2.0,0.0
+Master's,Mid,Excellent,Very Good,S,High,51,10,102266.59957706368,Very High,2,2,4.0,3.0,1.0,2.0
+Master's,Mid,Good,Very Good,XL,Critical,60,4,103641.72444836973,Very High,2,2,3.0,3.0,4.0,3.0
+Bachelor's,Senior,Excellent,Fair,XL,Low,34,21,108367.26045149268,Very High,1,3,4.0,1.0,4.0,0.0
+Master's,Mid,Average,Fair,L,Critical,53,25,111702.30525895173,Very High,2,2,2.0,1.0,3.0,3.0
+High School,Entry,Good,Good,M,Medium,50,3,33502.09381536201,Low,0,0,3.0,2.0,2.0,1.0
+High School,Entry,Average,Good,M,Low,51,28,44148.662089395875,Low,0,0,2.0,2.0,2.0,0.0
+High School,Senior,Average,Very Good,L,Low,39,11,84056.98277245797,High,0,3,2.0,3.0,3.0,0.0
+High School,Mid,Good,Excellent,L,Medium,34,1,59258.68355623691,Medium,0,2,3.0,4.0,3.0,1.0
+Bachelor's,Senior,Good,Good,S,High,64,12,104093.8882187743,Very High,1,3,3.0,2.0,1.0,2.0
+High School,Junior,Excellent,Fair,L,High,42,9,57689.659592062766,Medium,0,1,4.0,1.0,3.0,2.0
+Master's,Entry,Good,Very Good,XL,Low,51,8,74387.27596877793,High,2,0,3.0,3.0,4.0,0.0
+Bachelor's,Entry,Average,Fair,M,Low,42,9,55412.48589492868,Medium,1,0,2.0,1.0,2.0,0.0
+High School,Junior,Average,Very Good,S,Medium,38,6,55088.30733421751,Medium,0,1,2.0,3.0,1.0,1.0
+Bachelor's,Mid,Good,Good,L,Low,61,3,86357.47655412824,High,1,2,3.0,2.0,3.0,0.0
+High School,Junior,Average,Very Good,M,Low,40,18,52757.38137619762,Medium,0,1,2.0,3.0,2.0,0.0
+Master's,Mid,Below Average,Poor,M,Low,36,9,106702.94608200248,Very High,2,2,1.0,0.0,2.0,0.0
+High School,Expert,Average,Good,S,High,30,29,101953.47960464071,Very High,0,4,2.0,2.0,1.0,2.0
+PhD,Junior,Average,Good,M,Critical,31,2,103367.63935844459,Very High,3,1,2.0,2.0,2.0,3.0
+Master's,Mid,Average,Good,L,Medium,52,24,110236.58853310723,Very High,2,2,2.0,2.0,3.0,1.0
+High School,Senior,Average,Fair,L,Critical,44,20,85847.94996213887,High,0,3,2.0,1.0,3.0,3.0
+High School,Junior,Poor,Very Good,M,Medium,51,28,48853.04627965986,Low,0,1,0.0,3.0,2.0,1.0
+Master's,Mid,Poor,Very Good,XL,Medium,54,18,104782.61525093068,Very High,2,2,0.0,3.0,4.0,1.0
+Bachelor's,Senior,Excellent,Fair,XL,Low,30,20,92344.46248722139,Very High,1,3,4.0,1.0,4.0,0.0
+Bachelor's,Expert,Average,Poor,XL,Medium,22,1,122571.27378008918,Very High,1,4,2.0,0.0,4.0,1.0
+Master's,Entry,Average,Poor,M,Critical,56,26,82860.28720857072,High,2,0,2.0,0.0,2.0,3.0
+High School,Expert,Good,Good,M,Medium,32,19,99689.04491500344,Very High,0,4,3.0,2.0,2.0,1.0
+Bachelor's,Mid,Average,Good,XXL,Medium,55,9,90621.76679935251,Very High,1,2,2.0,2.0,5.0,1.0
+High School,Junior,Excellent,Good,L,Medium,37,1,48329.6138451003,Low,0,1,4.0,2.0,3.0,1.0
+Master's,Mid,Good,Fair,XS,Low,30,1,107823.029629468,Very High,2,2,3.0,1.0,0.0,0.0
+Bachelor's,Expert,Below Average,Good,S,High,53,27,114901.67830653943,Very High,1,4,1.0,2.0,1.0,2.0
+High School,Mid,Average,Good,M,Medium,36,23,64882.23924562881,Medium,0,2,2.0,2.0,2.0,1.0
+High School,Junior,Good,Good,XL,Medium,33,16,49128.22871048582,Low,0,1,3.0,2.0,4.0,1.0
+High School,Mid,Excellent,Excellent,L,Medium,54,15,66126.53961020471,Medium,0,2,4.0,4.0,3.0,1.0
+High School,Junior,Average,Fair,M,Medium,35,15,48152.36535583321,Low,0,1,2.0,1.0,2.0,1.0
+Bachelor's,Entry,Good,Very Good,S,Low,29,13,59342.63702164166,Medium,1,0,3.0,3.0,1.0,0.0
+Bachelor's,Entry,Below Average,Good,L,Medium,29,6,64130.23585720753,Medium,1,0,1.0,2.0,3.0,1.0
+Master's,Entry,Excellent,Good,XL,Low,48,20,77816.17881380892,High,2,0,4.0,2.0,4.0,0.0
+Bachelor's,Junior,Average,Very Good,M,High,33,10,61967.1144963066,Medium,1,1,2.0,3.0,2.0,2.0
+High School,Entry,Excellent,Very Good,L,High,22,23,48747.9195210271,Low,0,0,4.0,3.0,3.0,2.0
+Bachelor's,Mid,Good,Excellent,XXL,High,64,0,91907.27039345243,Very High,1,2,3.0,4.0,5.0,2.0
+Master's,Junior,Good,Fair,M,Medium,61,10,83538.68652447191,High,2,1,3.0,1.0,2.0,1.0
+Bachelor's,Junior,Average,Fair,L,Medium,63,22,73448.53902622598,High,1,1,2.0,1.0,3.0,1.0
+Master's,Senior,Average,Very Good,M,Low,32,20,117485.12614724328,Very High,2,3,2.0,3.0,2.0,0.0
+Bachelor's,Mid,Below Average,Good,L,High,60,3,86317.4360766553,High,1,2,1.0,2.0,3.0,2.0
+Bachelor's,Mid,Average,Fair,L,Low,64,6,86471.12064506747,High,1,2,2.0,1.0,3.0,0.0
+Bachelor's,Junior,Below Average,Poor,L,Medium,52,25,68827.96099841839,Medium,1,1,1.0,0.0,3.0,1.0
+High School,Junior,Good,Poor,L,Low,38,14,46081.17167206802,Low,0,1,3.0,0.0,3.0,0.0
+High School,Entry,Average,Very Good,M,Low,54,17,36547.29473841871,Low,0,0,2.0,3.0,2.0,0.0
+High School,Junior,Below Average,Fair,XL,Medium,53,11,45419.04042259379,Low,0,1,1.0,1.0,4.0,1.0
+Bachelor's,Junior,Excellent,Good,L,Low,50,16,65840.88895884778,Medium,1,1,4.0,2.0,3.0,0.0
+High School,Junior,Good,Fair,S,High,42,0,49664.108549753226,Low,0,1,3.0,1.0,1.0,2.0
+Bachelor's,Entry,Excellent,Good,L,Medium,42,10,56421.20005444624,Medium,1,0,4.0,2.0,3.0,1.0
+Master's,Entry,Excellent,Poor,L,Low,61,27,83410.2603285631,High,2,0,4.0,0.0,3.0,0.0
+High School,Mid,Below Average,Good,M,Medium,44,0,72436.23077667964,High,0,2,1.0,2.0,2.0,1.0
+Bachelor's,Junior,Average,Poor,XL,Low,27,14,67099.73379314979,Medium,1,1,2.0,0.0,4.0,0.0
+Master's,Junior,Good,Very Good,XL,Low,43,27,91197.02250267689,Very High,2,1,3.0,3.0,4.0,0.0
+High School,Mid,Good,Fair,M,High,59,20,67498.42555151467,Medium,0,2,3.0,1.0,2.0,2.0
+High School,Mid,Below Average,Good,XXL,Low,58,9,67360.01135459637,Medium,0,2,1.0,2.0,5.0,0.0
+High School,Entry,Good,Very Good,S,High,29,6,40379.776339580436,Low,0,0,3.0,3.0,1.0,2.0
+High School,Senior,Average,Very Good,M,Low,62,1,83713.41209179861,High,0,3,2.0,3.0,2.0,0.0
+Master's,Mid,Average,Good,S,Low,56,9,107411.24476340329,Very High,2,2,2.0,2.0,1.0,0.0
+Master's,Entry,Average,Good,XL,High,32,23,73811.6878883635,High,2,0,2.0,2.0,4.0,2.0
+Bachelor's,Senior,Average,Good,L,Medium,45,3,104345.78032194637,Very High,1,3,2.0,2.0,3.0,1.0
+Master's,Expert,Average,Very Good,S,Low,42,11,144436.45418633372,Very High,2,4,2.0,3.0,1.0,0.0
+Master's,Entry,Below Average,Excellent,M,Medium,23,18,76183.56947910709,High,2,0,1.0,4.0,2.0,1.0
+High School,Junior,Good,Very Good,L,Low,61,25,50189.68917723801,Medium,0,1,3.0,3.0,3.0,0.0
+Master's,Senior,Average,Good,S,High,40,10,123416.64496405535,Very High,2,3,2.0,2.0,1.0,2.0
+Bachelor's,Senior,Below Average,Very Good,XL,Medium,60,7,98953.4309021032,Very High,1,3,1.0,3.0,4.0,1.0
+Master's,Junior,Good,Good,XL,High,49,17,95364.89023883006,Very High,2,1,3.0,2.0,4.0,2.0
+Master's,Junior,Excellent,Poor,L,High,38,10,101819.3624730968,Very High,2,1,4.0,0.0,3.0,2.0
+High School,Junior,Good,Good,XXL,Medium,27,10,46070.06983682509,Low,0,1,3.0,2.0,5.0,1.0
+High School,Mid,Good,Excellent,M,Critical,40,12,58094.776984231125,Medium,0,2,3.0,4.0,2.0,3.0
+High School,Mid,Good,Fair,XXL,Medium,59,2,66519.09297802438,Medium,0,2,3.0,1.0,5.0,1.0
+Bachelor's,Junior,Average,Very Good,L,Critical,49,11,73607.81252563072,High,1,1,2.0,3.0,3.0,3.0
+Master's,Mid,Below Average,Fair,L,Low,23,2,103845.66813077616,Very High,2,2,1.0,1.0,3.0,0.0
+Master's,Senior,Average,Good,S,Medium,59,9,127266.30331660518,Very High,2,3,2.0,2.0,1.0,1.0
+High School,Entry,Average,Poor,XL,Medium,58,26,33306.971001383754,Low,0,0,2.0,0.0,4.0,1.0
+Bachelor's,Junior,Average,Good,M,Medium,25,16,73464.59311515806,High,1,1,2.0,2.0,2.0,1.0
+Bachelor's,Senior,Good,Very Good,S,Medium,43,21,96970.69589620554,Very High,1,3,3.0,3.0,1.0,1.0
+High School,Senior,Average,Good,XS,High,47,1,88596.88953103649,High,0,3,2.0,2.0,0.0,2.0
+High School,Mid,Below Average,Very Good,L,Low,64,16,74962.5767658406,High,0,2,1.0,3.0,3.0,0.0
+High School,Mid,Average,Very Good,L,Low,57,15,61166.71706108326,Medium,0,2,2.0,3.0,3.0,0.0
+Master's,Entry,Good,Excellent,L,High,34,1,77252.2143204571,High,2,0,3.0,4.0,3.0,2.0
+High School,Mid,Below Average,Fair,XL,Medium,53,27,69297.93943489902,Medium,0,2,1.0,1.0,4.0,1.0
+Bachelor's,Mid,Good,Good,S,Critical,38,21,83064.34675105242,High,1,2,3.0,2.0,1.0,3.0
+Bachelor's,Junior,Average,Fair,L,High,62,29,69772.94391033881,Medium,1,1,2.0,1.0,3.0,2.0
+Bachelor's,Junior,Average,Excellent,S,Critical,57,19,70126.94210271206,High,1,1,2.0,4.0,1.0,3.0
+PhD,Junior,Average,Excellent,XL,High,40,5,100401.63421901171,Very High,3,1,2.0,4.0,4.0,2.0
+PhD,Entry,Good,Good,XL,Low,56,27,99930.81126952881,Very High,3,0,3.0,2.0,4.0,0.0
+High School,Junior,Average,Very Good,L,Low,61,24,46551.36112967913,Low,0,1,2.0,3.0,3.0,0.0
+Bachelor's,Junior,Good,Good,L,High,49,28,67534.38588800114,Medium,1,1,3.0,2.0,3.0,2.0
+High School,Junior,Average,Good,M,Medium,22,9,57218.16001734407,Medium,0,1,2.0,2.0,2.0,1.0
+High School,Entry,Average,Poor,M,Low,63,27,33717.465528603716,Low,0,0,2.0,0.0,2.0,0.0
+High School,Senior,Good,Very Good,XL,Medium,39,9,84066.02593373989,High,0,3,3.0,3.0,4.0,1.0
+Bachelor's,Mid,Good,Fair,M,Critical,61,7,83605.18534834095,High,1,2,3.0,1.0,2.0,3.0
+Bachelor's,Mid,Good,Very Good,M,Medium,54,0,83601.19915752082,High,1,2,3.0,3.0,2.0,1.0
+High School,Senior,Good,Very Good,M,Medium,33,12,83951.85948025856,High,0,3,3.0,3.0,2.0,1.0
+High School,Mid,Good,Very Good,XL,Medium,29,23,66700.25647284446,Medium,0,2,3.0,3.0,4.0,1.0
+Master's,Entry,Good,Poor,M,Low,45,8,82853.06498609766,High,2,0,3.0,0.0,2.0,0.0
+High School,Mid,Good,Good,S,Medium,37,21,69840.9233026643,Medium,0,2,3.0,2.0,1.0,1.0
+High School,Mid,Good,Fair,L,Medium,25,9,63343.45808408339,Medium,0,2,3.0,1.0,3.0,1.0
+Bachelor's,Senior,Good,Good,XL,Low,59,14,96938.81632746125,Very High,1,3,3.0,2.0,4.0,0.0
+PhD,Mid,Good,Poor,S,High,48,4,119574.247367211,Very High,3,2,3.0,0.0,1.0,2.0
+High School,Entry,Good,Excellent,M,Medium,30,21,35872.94735010523,Low,0,0,3.0,4.0,2.0,1.0
+Bachelor's,Junior,Below Average,Good,S,High,37,15,84745.47212654362,High,1,1,1.0,2.0,1.0,2.0
+Master's,Junior,Good,Good,M,High,33,12,96223.39790368393,Very High,2,1,3.0,2.0,2.0,2.0
+High School,Mid,Good,Good,M,Low,52,21,58244.62816895989,Medium,0,2,3.0,2.0,2.0,0.0
+Bachelor's,Mid,Poor,Good,L,Medium,45,24,78387.71021628215,High,1,2,0.0,2.0,3.0,1.0
+Bachelor's,Junior,Good,Good,L,Medium,35,19,72409.33030859246,High,1,1,3.0,2.0,3.0,1.0
+Bachelor's,Expert,Below Average,Good,L,High,46,17,122736.32398688984,Very High,1,4,1.0,2.0,3.0,2.0
+Bachelor's,Mid,Average,Excellent,M,Low,55,10,87744.41917658682,High,1,2,2.0,4.0,2.0,0.0
+Bachelor's,Junior,Good,Good,XL,Medium,24,26,68725.22103223151,Medium,1,1,3.0,2.0,4.0,1.0
+High School,Entry,Below Average,Excellent,M,Medium,45,8,39372.7286999855,Low,0,0,1.0,4.0,2.0,1.0
+Master's,Junior,Good,Very Good,XXL,Low,63,15,91639.3976207968,Very High,2,1,3.0,3.0,5.0,0.0
+High School,Junior,Good,Fair,L,Low,30,1,50429.46503146665,Medium,0,1,3.0,1.0,3.0,0.0
+High School,Junior,Average,Excellent,S,Medium,47,25,38903.49813626232,Low,0,1,2.0,4.0,1.0,1.0
+High School,Junior,Poor,Fair,L,High,41,24,48851.00184712403,Low,0,1,0.0,1.0,3.0,2.0
+Bachelor's,Junior,Average,Very Good,M,Medium,61,1,65742.96782869843,Medium,1,1,2.0,3.0,2.0,1.0
+Bachelor's,Junior,Good,Good,L,Medium,31,11,70876.05709454256,High,1,1,3.0,2.0,3.0,1.0
+High School,Senior,Excellent,Very Good,S,Medium,40,7,94926.29501301705,Very High,0,3,4.0,3.0,1.0,1.0
+Bachelor's,Entry,Good,Very Good,S,High,24,8,61837.40832737152,Medium,1,0,3.0,3.0,1.0,2.0
+High School,Mid,Average,Very Good,XL,Low,45,11,63432.35156913801,Medium,0,2,2.0,3.0,4.0,0.0
+Bachelor's,Mid,Good,Very Good,M,High,26,25,89609.00750988626,High,1,2,3.0,3.0,2.0,2.0
+High School,Expert,Average,Good,XL,Low,24,8,102413.43943604606,Very High,0,4,2.0,2.0,4.0,0.0
+Bachelor's,Entry,Good,Poor,M,Medium,48,9,62100.47245225921,Medium,1,0,3.0,0.0,2.0,1.0
+Bachelor's,Junior,Below Average,Good,L,Low,37,24,73034.25296607836,High,1,1,1.0,2.0,3.0,0.0
+Master's,Expert,Good,Fair,L,Low,36,1,150282.7178241477,Very High,2,4,3.0,1.0,3.0,0.0
+High School,Senior,Average,Very Good,L,Medium,56,15,74345.55782337041,High,0,3,2.0,3.0,3.0,1.0
+High School,Senior,Excellent,Good,M,Low,33,19,82368.16038405728,High,0,3,4.0,2.0,2.0,0.0
+High School,Junior,Average,Excellent,M,High,62,6,45368.09435009231,Low,0,1,2.0,4.0,2.0,2.0
+Master's,Junior,Good,Good,XS,Low,47,27,92777.56323171125,Very High,2,1,3.0,2.0,0.0,0.0
+Master's,Mid,Excellent,Very Good,M,Medium,55,1,100406.56744256953,Very High,2,2,4.0,3.0,2.0,1.0
+High School,Expert,Below Average,Fair,L,Medium,44,0,97913.16593197458,Very High,0,4,1.0,1.0,3.0,1.0
+Bachelor's,Mid,Excellent,Very Good,XL,Low,52,18,83524.55042881047,High,1,2,4.0,3.0,4.0,0.0
+Master's,Mid,Good,Excellent,XL,Low,41,27,109879.08359672355,Very High,2,2,3.0,4.0,4.0,0.0
+Bachelor's,Junior,Below Average,Good,L,Medium,33,3,74592.27221971207,High,1,1,1.0,2.0,3.0,1.0
+Bachelor's,Senior,Average,Good,L,Medium,44,23,93771.41311776808,Very High,1,3,2.0,2.0,3.0,1.0
+High School,Junior,Good,Very Good,L,Medium,25,21,50274.67055499924,Medium,0,1,3.0,3.0,3.0,1.0
+High School,Junior,Below Average,Fair,M,Medium,44,26,46452.10072625414,Low,0,1,1.0,1.0,2.0,1.0
+Master's,Mid,Average,Good,XL,Medium,22,1,98707.47544662333,Very High,2,2,2.0,2.0,4.0,1.0
+Master's,Mid,Average,Good,L,Low,46,24,103914.91474787815,Very High,2,2,2.0,2.0,3.0,0.0
+Bachelor's,Junior,Good,Fair,L,Medium,23,13,68457.5860577209,Medium,1,1,3.0,1.0,3.0,1.0
+High School,Entry,Poor,Good,S,Critical,51,1,52133.58243172761,Medium,0,0,0.0,2.0,1.0,3.0
+High School,Mid,Good,Poor,M,Medium,24,28,67164.79912680348,Medium,0,2,3.0,0.0,2.0,1.0
+Bachelor's,Junior,Excellent,Poor,M,Medium,42,14,63111.91249622881,Medium,1,1,4.0,0.0,2.0,1.0
+Master's,Mid,Excellent,Fair,XL,Medium,46,11,102176.12997914529,Very High,2,2,4.0,1.0,4.0,1.0
+Master's,Junior,Good,Excellent,L,High,41,4,95106.916477147,Very High,2,1,3.0,4.0,3.0,2.0
+Master's,Mid,Below Average,Good,M,High,43,27,115442.21386434963,Very High,2,2,1.0,2.0,2.0,2.0
+Bachelor's,Mid,Good,Excellent,XXL,Medium,42,19,77070.08343881021,High,1,2,3.0,4.0,5.0,1.0
+High School,Entry,Poor,Good,S,Critical,54,28,30600.378074304776,Low,0,0,0.0,2.0,1.0,3.0
+High School,Junior,Poor,Good,M,Low,59,6,59354.825876858915,Medium,0,1,0.0,2.0,2.0,0.0
+Master's,Entry,Average,Good,XS,Low,36,23,81948.07088685452,High,2,0,2.0,2.0,0.0,0.0
+Bachelor's,Entry,Average,Good,L,High,36,20,55658.53634061817,Medium,1,0,2.0,2.0,3.0,2.0
+High School,Expert,Good,Fair,XL,High,46,9,102673.14543061217,Very High,0,4,3.0,1.0,4.0,2.0
+High School,Junior,Good,Good,M,Low,42,13,36821.26130491561,Low,0,1,3.0,2.0,2.0,0.0
+Bachelor's,Senior,Average,Fair,XL,Low,45,13,100016.8775329858,Very High,1,3,2.0,1.0,4.0,0.0
+High School,Junior,Average,Good,M,Low,26,4,51639.105864215424,Medium,0,1,2.0,2.0,2.0,0.0
+High School,Mid,Excellent,Very Good,XL,Low,27,17,69621.35069768915,Medium,0,2,4.0,3.0,4.0,0.0
+Bachelor's,Senior,Average,Fair,L,High,64,23,94930.52023853731,Very High,1,3,2.0,1.0,3.0,2.0
+Bachelor's,Mid,Average,Poor,XL,Medium,44,13,85428.4358070168,High,1,2,2.0,0.0,4.0,1.0
+Bachelor's,Mid,Below Average,Very Good,XS,Medium,25,1,80372.87686970206,High,1,2,1.0,3.0,0.0,1.0
+High School,Mid,Good,Good,XXL,Medium,48,25,66276.91877837159,Medium,0,2,3.0,2.0,5.0,1.0
+Bachelor's,Junior,Good,Poor,L,Low,39,11,65523.26838818488,Medium,1,1,3.0,0.0,3.0,0.0
+High School,Expert,Average,Excellent,M,Low,42,21,97959.4958041989,Very High,0,4,2.0,4.0,2.0,0.0
+High School,Senior,Below Average,Poor,XL,Medium,49,23,75020.92302604885,High,0,3,1.0,0.0,4.0,1.0
+Bachelor's,Expert,Good,Very Good,M,Critical,56,5,123255.68120911828,Very High,1,4,3.0,3.0,2.0,3.0
+Bachelor's,Entry,Good,Excellent,XL,High,43,3,64292.255583283324,Medium,1,0,3.0,4.0,4.0,2.0
+Master's,Senior,Average,Fair,S,Low,61,12,118826.89715021293,Very High,2,3,2.0,1.0,1.0,0.0
+Bachelor's,Expert,Excellent,Fair,L,High,44,3,120191.18997480015,Very High,1,4,4.0,1.0,3.0,2.0
+Bachelor's,Junior,Below Average,Fair,L,High,24,21,62757.04292683228,Medium,1,1,1.0,1.0,3.0,2.0
+High School,Entry,Average,Good,S,High,61,13,38501.61675996606,Low,0,0,2.0,2.0,1.0,2.0
+Bachelor's,Senior,Excellent,Fair,M,Medium,31,15,99748.97691479127,Very High,1,3,4.0,1.0,2.0,1.0
+High School,Mid,Average,Very Good,XS,Medium,46,28,78103.96545514988,High,0,2,2.0,3.0,0.0,1.0
+High School,Senior,Good,Poor,M,Medium,29,3,74440.16487112918,High,0,3,3.0,0.0,2.0,1.0
+PhD,Entry,Average,Good,M,Low,32,23,107320.88619376218,Very High,3,0,2.0,2.0,2.0,0.0
+Bachelor's,Senior,Average,Excellent,L,Low,26,24,104984.29386732903,Very High,1,3,2.0,4.0,3.0,0.0
+Master's,Junior,Excellent,Very Good,M,Low,58,0,91403.18202245068,Very High,2,1,4.0,3.0,2.0,0.0
+Bachelor's,Junior,Average,Good,M,Medium,59,12,78793.10242097567,High,1,1,2.0,2.0,2.0,1.0
+Master's,Junior,Good,Good,L,High,50,3,91860.52736303431,Very High,2,1,3.0,2.0,3.0,2.0
+Bachelor's,Senior,Average,Good,XS,Medium,26,19,101945.79597833965,Very High,1,3,2.0,2.0,0.0,1.0
+Bachelor's,Mid,Average,Good,XL,Low,30,17,84734.39673491227,High,1,2,2.0,2.0,4.0,0.0
+Bachelor's,Mid,Poor,Good,XL,Critical,23,5,91117.84441209314,Very High,1,2,0.0,2.0,4.0,3.0
+High School,Junior,Good,Fair,L,Critical,22,2,55482.34616905442,Medium,0,1,3.0,1.0,3.0,3.0
+Bachelor's,Senior,Average,Very Good,L,High,61,22,96871.61356251893,Very High,1,3,2.0,3.0,3.0,2.0
+High School,Junior,Good,Good,XL,Critical,51,12,43403.76402700616,Low,0,1,3.0,2.0,4.0,3.0
+High School,Senior,Average,Fair,S,Medium,32,26,78985.09681302171,High,0,3,2.0,1.0,1.0,1.0
+Bachelor's,Mid,Excellent,Good,S,Critical,49,15,80999.80717801178,High,1,2,4.0,2.0,1.0,3.0
+High School,Junior,Below Average,Good,M,Low,33,26,49682.377126923224,Low,0,1,1.0,2.0,2.0,0.0
+Master's,Mid,Good,Very Good,L,Medium,60,4,111187.1906734207,Very High,2,2,3.0,3.0,3.0,1.0
+PhD,Junior,Good,Very Good,XS,Low,47,3,107713.49172456605,Very High,3,1,3.0,3.0,0.0,0.0
+Master's,Senior,Good,Very Good,L,Low,34,20,119785.88309344213,Very High,2,3,3.0,3.0,3.0,0.0
+Bachelor's,Mid,Good,Poor,XXL,Low,29,7,85290.11367404198,High,1,2,3.0,0.0,5.0,0.0
+High School,Junior,Good,Good,XL,Medium,49,18,54242.15441102642,Medium,0,1,3.0,2.0,4.0,1.0
+Master's,Senior,Good,Good,L,High,51,13,108765.55333007697,Very High,2,3,3.0,2.0,3.0,2.0
+Bachelor's,Junior,Below Average,Poor,S,Medium,30,6,66966.49852617351,Medium,1,1,1.0,0.0,1.0,1.0
+PhD,Mid,Poor,Fair,XL,Low,60,13,126056.41846139736,Very High,3,2,0.0,1.0,4.0,0.0
+PhD,Expert,Excellent,Very Good,L,High,52,5,166000.3947821343,Very High,3,4,4.0,3.0,3.0,2.0
+Master's,Mid,Good,Fair,S,Medium,42,11,102540.48776246897,Very High,2,2,3.0,1.0,1.0,1.0
+High School,Entry,Good,Good,S,Medium,55,15,30617.23646979063,Low,0,0,3.0,2.0,1.0,1.0
+Bachelor's,Expert,Average,Fair,XL,Medium,52,16,123098.55722983068,Very High,1,4,2.0,1.0,4.0,1.0
+Master's,Mid,Below Average,Poor,L,Low,46,12,101823.18805587185,Very High,2,2,1.0,0.0,3.0,0.0
+High School,Junior,Below Average,Fair,XL,Medium,33,22,44051.666704548195,Low,0,1,1.0,1.0,4.0,1.0
+High School,Entry,Good,Excellent,XL,Critical,22,13,36878.27305143388,Low,0,0,3.0,4.0,4.0,3.0
+Bachelor's,Senior,Average,Very Good,L,Low,43,28,99077.37321172075,Very High,1,3,2.0,3.0,3.0,0.0
+Master's,Mid,Average,Excellent,L,Medium,61,6,101976.27667730894,Very High,2,2,2.0,4.0,3.0,1.0
+Bachelor's,Mid,Average,Good,M,High,58,13,73972.16971450465,High,1,2,2.0,2.0,2.0,2.0
+Bachelor's,Senior,Below Average,Fair,M,High,22,14,104485.33098443566,Very High,1,3,1.0,1.0,2.0,2.0
+High School,Senior,Average,Good,M,Low,22,11,86374.37520639361,High,0,3,2.0,2.0,2.0,0.0
+Bachelor's,Junior,Average,Good,L,Low,63,16,73257.60995669753,High,1,1,2.0,2.0,3.0,0.0
+PhD,Junior,Good,Very Good,L,Low,63,8,104311.57164787591,Very High,3,1,3.0,3.0,3.0,0.0
+High School,Junior,Average,Poor,XL,Medium,42,21,48992.54233026241,Low,0,1,2.0,0.0,4.0,1.0
+Bachelor's,Senior,Average,Good,M,Medium,36,14,99967.39342385271,Very High,1,3,2.0,2.0,2.0,1.0
+Master's,Entry,Poor,Fair,L,Low,38,11,82993.97194780955,High,2,0,0.0,1.0,3.0,0.0
+Bachelor's,Mid,Below Average,Good,L,Critical,43,1,88341.7024435904,High,1,2,1.0,2.0,3.0,3.0
+Bachelor's,Senior,Average,Very Good,L,Medium,59,4,96329.13100610752,Very High,1,3,2.0,3.0,3.0,1.0
+Bachelor's,Senior,Average,Good,L,Low,56,12,100409.9777820678,Very High,1,3,2.0,2.0,3.0,0.0
+Bachelor's,Junior,Good,Good,M,Medium,37,26,72286.40202307621,High,1,1,3.0,2.0,2.0,1.0
+High School,Senior,Average,Good,L,Medium,29,19,87279.11161073383,High,0,3,2.0,2.0,3.0,1.0
+Master's,Entry,Good,Good,S,Low,38,22,83522.53269912362,High,2,0,3.0,2.0,1.0,0.0
+Master's,Senior,Good,Very Good,M,Low,38,7,123945.2834368776,Very High,2,3,3.0,3.0,2.0,0.0
+Master's,Entry,Good,Very Good,M,High,47,26,80419.1331396468,High,2,0,3.0,3.0,2.0,2.0
+Master's,Junior,Poor,Excellent,L,Medium,34,13,97052.29572601752,Very High,2,1,0.0,4.0,3.0,1.0
+Bachelor's,Senior,Average,Very Good,XXL,Medium,38,14,102048.81397979749,Very High,1,3,2.0,3.0,5.0,1.0
+Bachelor's,Entry,Below Average,Good,L,Medium,59,10,55694.56044913215,Medium,1,0,1.0,2.0,3.0,1.0
+Master's,Junior,Average,Very Good,L,Low,38,0,97016.84985062595,Very High,2,1,2.0,3.0,3.0,0.0
+Bachelor's,Senior,Excellent,Good,L,Low,35,20,103489.51636269514,Very High,1,3,4.0,2.0,3.0,0.0
+Bachelor's,Senior,Below Average,Fair,L,Medium,27,2,97784.77989435759,Very High,1,3,1.0,1.0,3.0,1.0
+Master's,Mid,Average,Very Good,S,Low,56,16,102602.53516300378,Very High,2,2,2.0,3.0,1.0,0.0
+Master's,Mid,Good,Poor,M,Low,35,27,106482.8777257038,Very High,2,2,3.0,0.0,2.0,0.0
+High School,Mid,Good,Excellent,M,High,29,18,67315.92397633793,Medium,0,2,3.0,4.0,2.0,2.0
+Bachelor's,Junior,Average,Good,M,Critical,36,13,70986.46132815603,High,1,1,2.0,2.0,2.0,3.0
+High School,Junior,Poor,Good,XS,High,48,21,51556.54336721442,Medium,0,1,0.0,2.0,0.0,2.0
+Bachelor's,Junior,Average,Very Good,S,High,34,29,78499.7868728819,High,1,1,2.0,3.0,1.0,2.0
+High School,Expert,Average,Very Good,M,Low,52,22,105357.71576117443,Very High,0,4,2.0,3.0,2.0,0.0
+Bachelor's,Mid,Below Average,Good,XXL,Critical,56,7,85953.17795632512,High,1,2,1.0,2.0,5.0,3.0
+Bachelor's,Mid,Average,Good,M,Low,27,12,89706.55290383742,High,1,2,2.0,2.0,2.0,0.0
+High School,Mid,Poor,Poor,M,Critical,26,26,59837.3804823623,Medium,0,2,0.0,0.0,2.0,3.0
+Bachelor's,Expert,Below Average,Good,S,Critical,43,19,121989.63524973404,Very High,1,4,1.0,2.0,1.0,3.0
+High School,Junior,Average,Fair,L,High,44,2,59046.531748665555,Medium,0,1,2.0,1.0,3.0,2.0
+High School,Mid,Below Average,Very Good,M,Critical,46,4,63909.77052303813,Medium,0,2,1.0,3.0,2.0,3.0
+Master's,Mid,Average,Good,M,Medium,55,8,100761.83035690458,Very High,2,2,2.0,2.0,2.0,1.0
+Bachelor's,Mid,Good,Very Good,L,Low,47,28,81739.55555703469,High,1,2,3.0,3.0,3.0,0.0
+High School,Entry,Good,Poor,XS,Medium,26,5,34551.83481328806,Low,0,0,3.0,0.0,0.0,1.0
+Bachelor's,Senior,Average,Poor,XS,Medium,47,24,96076.19045936149,Very High,1,3,2.0,0.0,0.0,1.0
+Master's,Expert,Below Average,Very Good,M,Low,41,21,138147.45950704985,Very High,2,4,1.0,3.0,2.0,0.0
+High School,Mid,Below Average,Poor,XS,Medium,27,1,57972.16490410679,Medium,0,2,1.0,0.0,0.0,1.0
+Bachelor's,Mid,Good,Poor,S,Critical,27,12,85078.09166974801,High,1,2,3.0,0.0,1.0,3.0
+High School,Expert,Good,Poor,M,Low,39,4,104511.38586893324,Very High,0,4,3.0,0.0,2.0,0.0
+High School,Senior,Poor,Excellent,XL,High,25,27,75461.21909926539,High,0,3,0.0,4.0,4.0,2.0
+Bachelor's,Junior,Excellent,Very Good,L,Critical,38,26,77596.41961820885,High,1,1,4.0,3.0,3.0,3.0
+Bachelor's,Mid,Below Average,Good,L,Critical,35,24,87553.96044263797,High,1,2,1.0,2.0,3.0,3.0
+Bachelor's,Mid,Average,Fair,M,Critical,35,7,90152.90292812028,Very High,1,2,2.0,1.0,2.0,3.0
+Bachelor's,Mid,Good,Good,XL,Medium,34,22,81710.82723073932,High,1,2,3.0,2.0,4.0,1.0
+PhD,Senior,Good,Very Good,M,Critical,28,0,144272.6261353331,Very High,3,3,3.0,3.0,2.0,3.0
+Bachelor's,Expert,Good,Very Good,S,High,36,19,114540.33049802344,Very High,1,4,3.0,3.0,1.0,2.0
+High School,Expert,Good,Fair,L,Low,40,11,104451.23750418254,Very High,0,4,3.0,1.0,3.0,0.0
+Master's,Mid,Average,Fair,S,Medium,64,22,105859.19669896766,Very High,2,2,2.0,1.0,1.0,1.0
+High School,Entry,Good,Poor,M,High,56,10,42766.25609992392,Low,0,0,3.0,0.0,2.0,2.0
+Bachelor's,Expert,Below Average,Very Good,L,Low,38,6,114122.02697187575,Very High,1,4,1.0,3.0,3.0,0.0
+High School,Senior,Good,Very Good,XL,Medium,56,14,75524.65078861697,High,0,3,3.0,3.0,4.0,1.0
+High School,Entry,Average,Fair,M,Medium,40,21,42986.14109126692,Low,0,0,2.0,1.0,2.0,1.0
+PhD,Expert,Good,Poor,L,Low,41,23,155258.259978879,Very High,3,4,3.0,0.0,3.0,0.0
+Master's,Senior,Average,Poor,XXL,Medium,57,10,122316.03146049562,Very High,2,3,2.0,0.0,5.0,1.0
+Bachelor's,Mid,Good,Excellent,S,High,56,28,78164.31096769877,High,1,2,3.0,4.0,1.0,2.0
+Bachelor's,Mid,Average,Fair,M,Medium,53,21,89240.87106333334,High,1,2,2.0,1.0,2.0,1.0
+High School,Junior,Good,Very Good,M,Low,61,25,43837.38342615745,Low,0,1,3.0,3.0,2.0,0.0
+High School,Entry,Below Average,Good,M,Low,45,15,42761.49968839761,Low,0,0,1.0,2.0,2.0,0.0
+High School,Junior,Below Average,Good,M,Medium,38,2,53128.15466823,Medium,0,1,1.0,2.0,2.0,1.0
+Bachelor's,Senior,Average,Fair,XL,Critical,28,19,96516.14090785212,Very High,1,3,2.0,1.0,4.0,3.0
+Bachelor's,Entry,Below Average,Fair,L,Low,64,13,62910.13283542363,Medium,1,0,1.0,1.0,3.0,0.0
+Bachelor's,Junior,Good,Good,L,Medium,22,2,71302.21131666777,High,1,1,3.0,2.0,3.0,1.0
+High School,Junior,Average,Very Good,M,Low,56,0,47305.79071903631,Low,0,1,2.0,3.0,2.0,0.0
+PhD,Mid,Excellent,Good,XL,Medium,53,25,119957.22657961896,Very High,3,2,4.0,2.0,4.0,1.0
+Bachelor's,Expert,Average,Good,XXL,High,57,20,110186.87154163711,Very High,1,4,2.0,2.0,5.0,2.0
+Bachelor's,Junior,Below Average,Poor,XL,High,34,14,71748.25023649847,High,1,1,1.0,0.0,4.0,2.0
+Bachelor's,Junior,Good,Excellent,XS,Low,27,0,62175.98614318972,Medium,1,1,3.0,4.0,0.0,0.0
+Bachelor's,Senior,Good,Very Good,L,Medium,35,16,100476.72099720655,Very High,1,3,3.0,3.0,3.0,1.0
+High School,Mid,Average,Fair,S,Low,58,1,63682.758919588756,Medium,0,2,2.0,1.0,1.0,0.0
+Bachelor's,Junior,Average,Excellent,M,Medium,36,28,73395.71387719098,High,1,1,2.0,4.0,2.0,1.0
+Master's,Mid,Good,Good,S,Medium,25,19,103489.77250255068,Very High,2,2,3.0,2.0,1.0,1.0
+High School,Entry,Average,Good,L,Low,61,5,38352.761068264546,Low,0,0,2.0,2.0,3.0,0.0
+High School,Junior,Excellent,Very Good,L,Low,37,7,53659.35352144148,Medium,0,1,4.0,3.0,3.0,0.0
+High School,Mid,Excellent,Very Good,S,Medium,49,28,66675.29014542059,Medium,0,2,4.0,3.0,1.0,1.0
+High School,Mid,Good,Very Good,M,Critical,37,15,66580.7797859139,Medium,0,2,3.0,3.0,2.0,3.0
+Master's,Expert,Below Average,Fair,M,Critical,25,18,142346.33794904265,Very High,2,4,1.0,1.0,2.0,3.0
+Bachelor's,Junior,Good,Good,M,Low,47,0,62322.13938396447,Medium,1,1,3.0,2.0,2.0,0.0
+Bachelor's,Mid,Below Average,Excellent,S,High,49,2,88783.94339993491,High,1,2,1.0,4.0,1.0,2.0
+High School,Mid,Poor,Fair,M,Medium,53,27,68062.34397006802,Medium,0,2,0.0,1.0,2.0,1.0
+Bachelor's,Entry,Average,Good,L,Medium,23,2,54916.584357117514,Medium,1,0,2.0,2.0,3.0,1.0
+Bachelor's,Mid,Average,Good,S,High,52,4,83779.59763162899,High,1,2,2.0,2.0,1.0,2.0
+High School,Junior,Good,Good,S,Critical,24,26,49803.46356186184,Low,0,1,3.0,2.0,1.0,3.0
+Bachelor's,Expert,Good,Good,M,Critical,29,11,119327.51607799134,Very High,1,4,3.0,2.0,2.0,3.0
+Bachelor's,Entry,Good,Excellent,XL,Medium,45,11,61669.29983284268,Medium,1,0,3.0,4.0,4.0,1.0
+Bachelor's,Mid,Average,Fair,L,Medium,36,19,92156.83390915592,Very High,1,2,2.0,1.0,3.0,1.0
+Bachelor's,Entry,Average,Fair,L,High,64,12,65408.83363836414,Medium,1,0,2.0,1.0,3.0,2.0
+High School,Expert,Average,Fair,M,Low,52,19,93438.90403284297,Very High,0,4,2.0,1.0,2.0,0.0
+Bachelor's,Mid,Excellent,Very Good,L,Medium,30,8,88110.34995153024,High,1,2,4.0,3.0,3.0,1.0
+Bachelor's,Mid,Poor,Good,XS,Medium,60,6,91644.66659767705,Very High,1,2,0.0,2.0,0.0,1.0
+Bachelor's,Entry,Good,Fair,L,Medium,23,3,61934.04260344601,Medium,1,0,3.0,1.0,3.0,1.0
+Master's,Senior,Average,Very Good,XL,Low,29,18,125454.90212592983,Very High,2,3,2.0,3.0,4.0,0.0
+Bachelor's,Junior,Average,Very Good,L,Low,28,21,80061.35222850382,High,1,1,2.0,3.0,3.0,0.0
+High School,Senior,Good,Very Good,XL,Critical,60,18,85118.5477305349,High,0,3,3.0,3.0,4.0,3.0
+High School,Junior,Average,Excellent,L,Low,63,5,51246.54297820864,Medium,0,1,2.0,4.0,3.0,0.0
+Bachelor's,Junior,Good,Fair,S,Medium,37,26,75225.44237042377,High,1,1,3.0,1.0,1.0,1.0
+High School,Entry,Excellent,Very Good,XL,Low,56,12,40724.43916548446,Low,0,0,4.0,3.0,4.0,0.0
+Bachelor's,Mid,Average,Good,S,Low,51,10,85119.51521642477,High,1,2,2.0,2.0,1.0,0.0
+Master's,Mid,Average,Very Good,L,Low,31,12,103242.92882143134,Very High,2,2,2.0,3.0,3.0,0.0
+Bachelor's,Entry,Average,Very Good,S,Low,59,12,67817.06679416054,Medium,1,0,2.0,3.0,1.0,0.0
+Bachelor's,Senior,Excellent,Very Good,XS,High,39,27,95907.85667029,Very High,1,3,4.0,3.0,0.0,2.0
+Bachelor's,Mid,Average,Very Good,M,Low,26,24,92661.83862339058,Very High,1,2,2.0,3.0,2.0,0.0
+Bachelor's,Mid,Good,Fair,M,Critical,50,21,87499.32061870185,High,1,2,3.0,1.0,2.0,3.0
+Bachelor's,Mid,Good,Good,M,Medium,60,27,78003.46912599029,High,1,2,3.0,2.0,2.0,1.0
+Master's,Mid,Good,Excellent,L,Medium,55,19,106838.2464649571,Very High,2,2,3.0,4.0,3.0,1.0
+Bachelor's,Mid,Below Average,Excellent,XS,Medium,64,14,74499.86746174187,High,1,2,1.0,4.0,0.0,1.0
+PhD,Junior,Good,Poor,S,Medium,44,20,113127.54008415517,Very High,3,1,3.0,0.0,1.0,1.0
+Master's,Junior,Excellent,Fair,L,High,26,12,94426.15741494496,Very High,2,1,4.0,1.0,3.0,2.0
+High School,Senior,Below Average,Fair,M,Low,51,21,77038.22022173973,High,0,3,1.0,1.0,2.0,0.0
+High School,Expert,Average,Very Good,L,Medium,27,10,100617.73847977791,Very High,0,4,2.0,3.0,3.0,1.0
+High School,Junior,Excellent,Very Good,L,High,25,18,59770.78716875143,Medium,0,1,4.0,3.0,3.0,2.0
+High School,Junior,Below Average,Fair,XL,Critical,50,7,47471.26647869032,Low,0,1,1.0,1.0,4.0,3.0
+High School,Mid,Good,Good,L,High,44,19,59705.462064716994,Medium,0,2,3.0,2.0,3.0,2.0
+Bachelor's,Mid,Average,Very Good,M,Medium,27,7,92408.317012313,Very High,1,2,2.0,3.0,2.0,1.0
+High School,Entry,Average,Very Good,L,High,53,9,49812.93595265398,Low,0,0,2.0,3.0,3.0,2.0
+High School,Junior,Good,Good,M,Medium,63,25,50018.478359239234,Medium,0,1,3.0,2.0,2.0,1.0
+Master's,Senior,Average,Good,M,Medium,39,15,125057.31517704178,Very High,2,3,2.0,2.0,2.0,1.0
+High School,Mid,Average,Good,L,Low,36,18,71707.3795776544,High,0,2,2.0,2.0,3.0,0.0
+Master's,Entry,Average,Fair,M,Medium,61,25,76287.57883730809,High,2,0,2.0,1.0,2.0,1.0
+High School,Junior,Average,Good,L,Low,53,22,47573.47082316066,Low,0,1,2.0,2.0,3.0,0.0
+High School,Junior,Below Average,Very Good,XL,Medium,30,10,56154.37256577367,Medium,0,1,1.0,3.0,4.0,1.0
+Bachelor's,Mid,Average,Very Good,XL,High,58,12,93425.07139354254,Very High,1,2,2.0,3.0,4.0,2.0
+Bachelor's,Entry,Excellent,Good,XL,Low,31,27,62814.40430087177,Medium,1,0,4.0,2.0,4.0,0.0
+Master's,Entry,Average,Very Good,M,Low,41,8,75600.92823248974,High,2,0,2.0,3.0,2.0,0.0
+Bachelor's,Senior,Good,Fair,M,Low,27,19,109935.3055584972,Very High,1,3,3.0,1.0,2.0,0.0
+Master's,Junior,Average,Good,L,Critical,24,23,87345.14551094017,High,2,1,2.0,2.0,3.0,3.0
+High School,Mid,Good,Poor,M,Medium,63,18,63324.311094142744,Medium,0,2,3.0,0.0,2.0,1.0
+High School,Junior,Below Average,Fair,L,Medium,32,15,51711.68917244811,Medium,0,1,1.0,1.0,3.0,1.0
+Master's,Entry,Excellent,Very Good,L,High,64,6,87770.80210357386,High,2,0,4.0,3.0,3.0,2.0
+Master's,Junior,Average,Excellent,L,High,38,18,94269.87988276112,Very High,2,1,2.0,4.0,3.0,2.0
+PhD,Senior,Average,Poor,M,Medium,53,11,142074.32750180954,Very High,3,3,2.0,0.0,2.0,1.0
+Bachelor's,Senior,Below Average,Good,S,Medium,25,14,102316.44265059053,Very High,1,3,1.0,2.0,1.0,1.0
+Bachelor's,Senior,Below Average,Very Good,M,High,25,22,100217.57334321733,Very High,1,3,1.0,3.0,2.0,2.0
+Master's,Junior,Average,Fair,S,Medium,38,13,92790.69757259253,Very High,2,1,2.0,1.0,1.0,1.0
+High School,Mid,Average,Good,XL,Low,62,10,52352.199611528486,Medium,0,2,2.0,2.0,4.0,0.0
+Master's,Junior,Good,Very Good,M,High,40,25,88516.96270465101,High,2,1,3.0,3.0,2.0,2.0
+Master's,Junior,Average,Good,S,Medium,26,9,91206.6096745839,Very High,2,1,2.0,2.0,1.0,1.0
+Bachelor's,Senior,Average,Fair,XS,Low,53,26,94244.92958190247,Very High,1,3,2.0,1.0,0.0,0.0
+Master's,Entry,Good,Good,L,Medium,43,10,81931.6165890578,High,2,0,3.0,2.0,3.0,1.0
+Master's,Entry,Good,Very Good,L,Low,27,5,78977.6438950694,High,2,0,3.0,3.0,3.0,0.0
+High School,Junior,Below Average,Good,M,Low,56,1,58777.37849157745,Medium,0,1,1.0,2.0,2.0,0.0
+Master's,Entry,Below Average,Poor,S,High,43,10,87865.09862607428,High,2,0,1.0,0.0,1.0,2.0
+Bachelor's,Junior,Poor,Very Good,M,Low,22,18,67670.97215440919,Medium,1,1,0.0,3.0,2.0,0.0
+Master's,Mid,Good,Poor,M,Medium,41,5,104245.81144216652,Very High,2,2,3.0,0.0,2.0,1.0
+High School,Mid,Good,Very Good,L,Medium,43,13,64630.262171958035,Medium,0,2,3.0,3.0,3.0,1.0
+Master's,Senior,Average,Fair,L,Low,32,19,117741.70261920188,Very High,2,3,2.0,1.0,3.0,0.0
+Bachelor's,Senior,Good,Excellent,M,Critical,34,5,100975.12492014063,Very High,1,3,3.0,4.0,2.0,3.0
+High School,Junior,Good,Good,M,Low,63,16,46208.58965556205,Low,0,1,3.0,2.0,2.0,0.0
+Master's,Junior,Average,Good,XXL,Medium,24,9,84346.92332531237,High,2,1,2.0,2.0,5.0,1.0
+High School,Junior,Good,Fair,M,Medium,30,27,53113.55611950134,Medium,0,1,3.0,1.0,2.0,1.0
+High School,Mid,Average,Good,L,Low,33,0,68147.64792110905,Medium,0,2,2.0,2.0,3.0,0.0
+PhD,Junior,Below Average,Very Good,S,Low,44,2,105978.42120170004,Very High,3,1,1.0,3.0,1.0,0.0
+PhD,Mid,Average,Excellent,M,High,35,7,129476.777153813,Very High,3,2,2.0,4.0,2.0,2.0
+Bachelor's,Mid,Below Average,Good,XS,Critical,54,7,81842.11135417334,High,1,2,1.0,2.0,0.0,3.0
+Bachelor's,Mid,Average,Good,L,Low,39,26,86265.82619018991,High,1,2,2.0,2.0,3.0,0.0
+Bachelor's,Mid,Excellent,Very Good,XXL,Medium,62,19,89101.72006306228,High,1,2,4.0,3.0,5.0,1.0
+High School,Junior,Poor,Very Good,M,High,30,21,49831.937176481435,Low,0,1,0.0,3.0,2.0,2.0
+High School,Expert,Below Average,Good,XS,High,44,14,102273.70456070568,Very High,0,4,1.0,2.0,0.0,2.0
+Bachelor's,Senior,Average,Good,XS,Medium,31,23,97417.85178056214,Very High,1,3,2.0,2.0,0.0,1.0
+Master's,Entry,Excellent,Good,M,Medium,40,6,79017.66708285951,High,2,0,4.0,2.0,2.0,1.0
+Master's,Senior,Average,Very Good,S,Medium,26,10,118970.7028455983,Very High,2,3,2.0,3.0,1.0,1.0
+Master's,Mid,Average,Poor,XS,High,44,6,101267.10826729881,Very High,2,2,2.0,0.0,0.0,2.0
+High School,Senior,Poor,Good,L,High,51,28,79116.1291844211,High,0,3,0.0,2.0,3.0,2.0
+Bachelor's,Senior,Below Average,Good,M,Low,46,3,92256.90850568126,Very High,1,3,1.0,2.0,2.0,0.0
+High School,Mid,Excellent,Very Good,M,Medium,49,24,62544.231264289476,Medium,0,2,4.0,3.0,2.0,1.0
+Bachelor's,Entry,Excellent,Poor,XL,Critical,55,11,58575.62253315165,Medium,1,0,4.0,0.0,4.0,3.0
+Bachelor's,Junior,Poor,Good,S,High,46,25,68719.1012375231,Medium,1,1,0.0,2.0,1.0,2.0
+Master's,Mid,Excellent,Good,XXL,Critical,31,5,103792.5127706461,Very High,2,2,4.0,2.0,5.0,3.0
+Bachelor's,Mid,Good,Good,M,High,35,13,84691.17900069935,High,1,2,3.0,2.0,2.0,2.0
+High School,Junior,Good,Poor,XL,Medium,63,11,52397.20759043032,Medium,0,1,3.0,0.0,4.0,1.0
+High School,Entry,Average,Good,L,Medium,51,10,44372.585370662615,Low,0,0,2.0,2.0,3.0,1.0
+Master's,Senior,Average,Good,XL,Medium,62,18,116751.17386575867,Very High,2,3,2.0,2.0,4.0,1.0
+Bachelor's,Expert,Average,Good,XXL,Low,46,20,113983.99572305428,Very High,1,4,2.0,2.0,5.0,0.0
+High School,Mid,Good,Good,M,Medium,35,4,59789.777938784486,Medium,0,2,3.0,2.0,2.0,1.0
+High School,Junior,Below Average,Very Good,XXL,High,56,13,47563.98539402537,Low,0,1,1.0,3.0,5.0,2.0
+Bachelor's,Junior,Poor,Very Good,M,Low,55,20,68240.39341091746,Medium,1,1,0.0,3.0,2.0,0.0
+High School,Entry,Average,Fair,M,High,31,23,36150.01966901271,Low,0,0,2.0,1.0,2.0,2.0
+Master's,Expert,Good,Very Good,M,Medium,56,15,133519.41667875054,Very High,2,4,3.0,3.0,2.0,1.0
+Bachelor's,Entry,Average,Good,L,Critical,32,24,57719.39586262906,Medium,1,0,2.0,2.0,3.0,3.0
+High School,Mid,Good,Poor,S,Low,32,12,65907.13310056986,Medium,0,2,3.0,0.0,1.0,0.0
+High School,Junior,Excellent,Poor,L,Low,42,24,52975.147329177824,Medium,0,1,4.0,0.0,3.0,0.0
+PhD,Mid,Below Average,Good,L,Medium,42,28,122212.88473445839,Very High,3,2,1.0,2.0,3.0,1.0
+Bachelor's,Mid,Good,Very Good,L,Low,43,21,82935.01088928283,High,1,2,3.0,3.0,3.0,0.0
+Bachelor's,Senior,Average,Very Good,XL,High,28,21,95366.50845576344,Very High,1,3,2.0,3.0,4.0,2.0
+Master's,Junior,Good,Very Good,M,High,38,24,89842.80414812612,High,2,1,3.0,3.0,2.0,2.0
+Master's,Entry,Below Average,Good,M,Low,23,19,75757.85682904592,High,2,0,1.0,2.0,2.0,0.0
+PhD,Entry,Good,Good,M,Medium,33,21,102865.639066206,Very High,3,0,3.0,2.0,2.0,1.0
+Master's,Expert,Good,Fair,S,Medium,63,3,131070.66754032945,Very High,2,4,3.0,1.0,1.0,1.0
+Bachelor's,Senior,Excellent,Good,S,Medium,39,10,98201.8516377377,Very High,1,3,4.0,2.0,1.0,1.0
+High School,Mid,Good,Good,M,Critical,32,16,66505.53669595871,Medium,0,2,3.0,2.0,2.0,3.0
+Master's,Mid,Average,Poor,M,High,37,6,105919.17258161253,Very High,2,2,2.0,0.0,2.0,2.0
+Bachelor's,Mid,Good,Fair,XXL,Medium,39,13,98465.16831990248,Very High,1,2,3.0,1.0,5.0,1.0
+Bachelor's,Junior,Good,Good,L,High,56,25,71749.00012283954,High,1,1,3.0,2.0,3.0,2.0
+Master's,Expert,Average,Very Good,M,Medium,47,10,134979.72701578995,Very High,2,4,2.0,3.0,2.0,1.0
+High School,Mid,Poor,Excellent,L,Critical,37,27,64522.678764554636,Medium,0,2,0.0,4.0,3.0,3.0
+Bachelor's,Junior,Excellent,Excellent,S,Medium,27,21,61118.76833266774,Medium,1,1,4.0,4.0,1.0,1.0
+High School,Mid,Good,Good,M,High,64,8,64597.001253516195,Medium,0,2,3.0,2.0,2.0,2.0
+Bachelor's,Entry,Good,Good,L,High,63,22,55834.71971499621,Medium,1,0,3.0,2.0,3.0,2.0
+High School,Junior,Average,Good,M,Low,33,12,54576.95137780081,Medium,0,1,2.0,2.0,2.0,0.0
+High School,Senior,Good,Very Good,M,High,34,22,77252.29862702232,High,0,3,3.0,3.0,2.0,2.0
+High School,Entry,Average,Fair,XXL,Low,25,17,39416.170421023766,Low,0,0,2.0,1.0,5.0,0.0
+Bachelor's,Mid,Good,Good,XL,Medium,60,27,81822.21079297799,High,1,2,3.0,2.0,4.0,1.0
+Bachelor's,Junior,Below Average,Very Good,L,Medium,23,10,78694.25675926666,High,1,1,1.0,3.0,3.0,1.0
+Bachelor's,Junior,Good,Good,L,Critical,47,14,68393.78616941044,Medium,1,1,3.0,2.0,3.0,3.0
+PhD,Junior,Excellent,Good,L,High,48,24,119162.78521739601,Very High,3,1,4.0,2.0,3.0,2.0
+Bachelor's,Junior,Poor,Good,M,High,48,25,74070.75881059133,High,1,1,0.0,2.0,2.0,2.0
+High School,Senior,Excellent,Fair,M,High,36,24,82410.33363667694,High,0,3,4.0,1.0,2.0,2.0
+Master's,Junior,Average,Good,XS,Medium,29,21,91843.6657365876,Very High,2,1,2.0,2.0,0.0,1.0
+High School,Mid,Good,Good,M,Critical,28,28,66968.98649108126,Medium,0,2,3.0,2.0,2.0,3.0
+PhD,Mid,Good,Poor,L,Medium,61,18,115361.63710327195,Very High,3,2,3.0,0.0,3.0,1.0
+High School,Mid,Average,Poor,M,Medium,33,0,63605.58302924622,Medium,0,2,2.0,0.0,2.0,1.0
+PhD,Expert,Good,Very Good,XXL,Low,34,3,164225.7898559216,Very High,3,4,3.0,3.0,5.0,0.0
+High School,Senior,Good,Fair,XL,High,64,13,79755.51408262947,High,0,3,3.0,1.0,4.0,2.0
+Master's,Junior,Average,Good,L,High,38,13,82974.05076598213,High,2,1,2.0,2.0,3.0,2.0
+Bachelor's,Entry,Average,Fair,L,Medium,38,2,59737.97774711265,Medium,1,0,2.0,1.0,3.0,1.0
+PhD,Junior,Good,Excellent,XL,Low,57,29,118520.52758127745,Very High,3,1,3.0,4.0,4.0,0.0
+High School,Mid,Good,Fair,S,High,42,27,71234.45857767359,High,0,2,3.0,1.0,1.0,2.0
+Bachelor's,Entry,Good,Good,L,Low,29,16,59689.979953169845,Medium,1,0,3.0,2.0,3.0,0.0
+PhD,Mid,Good,Very Good,S,High,26,2,129757.24638529043,Very High,3,2,3.0,3.0,1.0,2.0
+Bachelor's,Mid,Average,Very Good,L,Critical,47,15,83167.46489815974,High,1,2,2.0,3.0,3.0,3.0
+Bachelor's,Junior,Good,Fair,M,Medium,37,13,61480.64206586641,Medium,1,1,3.0,1.0,2.0,1.0
+Bachelor's,Senior,Below Average,Very Good,XL,Low,57,29,95377.67005935223,Very High,1,3,1.0,3.0,4.0,0.0
+Bachelor's,Entry,Average,Good,XL,High,49,19,67814.44384254099,Medium,1,0,2.0,2.0,4.0,2.0
+Bachelor's,Entry,Poor,Good,S,High,50,28,58630.03459085348,Medium,1,0,0.0,2.0,1.0,2.0
+Bachelor's,Senior,Average,Fair,M,Medium,33,12,98783.08010312491,Very High,1,3,2.0,1.0,2.0,1.0
+Master's,Mid,Average,Poor,XXL,Critical,58,14,103500.8090186256,Very High,2,2,2.0,0.0,5.0,3.0
+High School,Mid,Average,Very Good,M,Low,51,13,74520.68294786503,High,0,2,2.0,3.0,2.0,0.0
+High School,Mid,Good,Good,XL,Medium,44,23,73129.79457681032,High,0,2,3.0,2.0,4.0,1.0
+PhD,Junior,Average,Good,L,High,37,24,121093.90116724066,Very High,3,1,2.0,2.0,3.0,2.0
+Master's,Senior,Average,Very Good,M,High,35,18,119204.77394799974,Very High,2,3,2.0,3.0,2.0,2.0
+Bachelor's,Senior,Average,Very Good,M,Low,31,5,101478.12244373547,Very High,1,3,2.0,3.0,2.0,0.0
+Bachelor's,Mid,Average,Fair,M,High,28,9,77416.78725289604,High,1,2,2.0,1.0,2.0,2.0
+High School,Junior,Average,Good,L,Medium,58,26,57384.672130591374,Medium,0,1,2.0,2.0,3.0,1.0
+High School,Mid,Below Average,Fair,M,Medium,50,14,59161.10224366032,Medium,0,2,1.0,1.0,2.0,1.0
+Bachelor's,Junior,Good,Very Good,L,Low,24,20,71083.87781881314,High,1,1,3.0,3.0,3.0,0.0
+Bachelor's,Entry,Good,Very Good,M,High,36,21,54513.48736183578,Medium,1,0,3.0,3.0,2.0,2.0
+Bachelor's,Expert,Good,Excellent,L,Low,57,19,117055.66586630652,Very High,1,4,3.0,4.0,3.0,0.0
+High School,Entry,Average,Poor,XL,Medium,40,25,35813.6878447515,Low,0,0,2.0,0.0,4.0,1.0
+PhD,Expert,Average,Poor,XXL,Low,34,5,156960.62369662093,Very High,3,4,2.0,0.0,5.0,0.0
+PhD,Mid,Good,Fair,M,High,63,22,122304.38648425511,Very High,3,2,3.0,1.0,2.0,2.0
