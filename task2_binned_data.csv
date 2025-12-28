@@ -1,0 +1,501 @@
+age,age_equal_width,age_equal_freq,age_category,income,income_equal_freq,income_category,hours_worked,hours_worked_equal_width,credit_score,credit_rating,department
+56,Bin_4,Quantile_3,Senior (51-65),84621.09015089869,Quantile_5,Upper Middle ($75k-$150k),52.46694736529587,Bin_3,703.9477461705897,Good,Marketing
+69,Bin_5,Quantile_4,Elderly (65+),37838.73860259789,Quantile_3,Middle Income ($30k-$75k),18.301223129591413,Bin_1,601.7982363092392,Fair,HR
+46,Bin_3,Quantile_3,Middle Age (36-50),72981.24184831131,Quantile_4,Middle Income ($30k-$75k),22.46530583749337,Bin_1,850.0,Excellent,Sales
+32,Bin_2,Quantile_1,Adult (26-35),85217.22257413466,Quantile_5,Upper Middle ($75k-$150k),34.550777650410915,Bin_2,556.2179055912884,Poor,Marketing
+60,Bin_4,Quantile_4,Senior (51-65),16861.589826316256,Quantile_1,Low Income (<$30k),49.718226901727355,Bin_3,732.436274725291,Good,Marketing
+25,Bin_1,Quantile_1,Young Adult (18-25),109710.86490504861,Quantile_5,Upper Middle ($75k-$150k),39.690417493634264,Bin_2,606.5089585522201,Fair,Finance
+78,Bin_5,Quantile_5,Elderly (65+),74914.11237398222,Quantile_4,Middle Income ($30k-$75k),36.642849271134295,Bin_2,644.5892358552013,Fair,Finance
+38,Bin_2,Quantile_2,Middle Age (36-50),22401.349958067734,Quantile_2,Low Income (<$30k),53.460442074647176,Bin_3,725.3537833745175,Good,Finance
+56,Bin_4,Quantile_3,Senior (51-65),46330.66333387447,Quantile_4,Middle Income ($30k-$75k),61.55239538433073,Bin_4,802.4584437626143,Excellent,Sales
+75,Bin_5,Quantile_5,Elderly (65+),44612.349432427276,Quantile_4,Middle Income ($30k-$75k),46.72257284413772,Bin_3,842.3396562299046,Excellent,Sales
+36,Bin_2,Quantile_2,Middle Age (36-50),37017.47774470793,Quantile_3,Middle Income ($30k-$75k),33.771454968987165,Bin_2,526.3052039973679,Poor,HR
+40,Bin_2,Quantile_2,Middle Age (36-50),72950.11942646859,Quantile_4,Middle Income ($30k-$75k),35.81856965990728,Bin_2,706.7751224364462,Good,Finance
+28,Bin_1,Quantile_1,Adult (26-35),114678.18149575846,Quantile_5,Upper Middle ($75k-$150k),27.11552620242675,Bin_2,825.9493603383521,Excellent,Marketing
+28,Bin_1,Quantile_1,Adult (26-35),36528.391926463315,Quantile_3,Middle Income ($30k-$75k),41.008174222540525,Bin_3,511.46890612380594,Poor,IT
+41,Bin_2,Quantile_2,Middle Age (36-50),105314.36013519725,Quantile_5,Upper Middle ($75k-$150k),23.704070140236727,Bin_1,711.4383494054847,Good,HR
+70,Bin_5,Quantile_5,Elderly (65+),80062.43833301998,Quantile_5,Upper Middle ($75k-$150k),45.51863655309501,Bin_3,679.7916202579817,Good,Sales
+53,Bin_3,Quantile_3,Senior (51-65),43732.06769660892,Quantile_3,Middle Income ($30k-$75k),60.05574045639953,Bin_4,721.4541814379788,Good,HR
+57,Bin_4,Quantile_4,Senior (51-65),41812.25417547144,Quantile_3,Middle Income ($30k-$75k),47.1759157979305,Bin_3,602.7695974673525,Fair,HR
+41,Bin_2,Quantile_2,Middle Age (36-50),14442.748052306923,Quantile_1,Low Income (<$30k),35.30852279805065,Bin_2,536.4381171786561,Poor,HR
+20,Bin_1,Quantile_1,Young Adult (18-25),10931.297514610713,Quantile_1,Low Income (<$30k),45.269374126317906,Bin_3,488.68935748209753,Poor,HR
+39,Bin_2,Quantile_2,Middle Age (36-50),41440.67802834891,Quantile_3,Middle Income ($30k-$75k),56.20533445165877,Bin_4,777.6383953462102,Very Good,IT
+70,Bin_5,Quantile_5,Elderly (65+),18310.992942846573,Quantile_1,Low Income (<$30k),55.70494635261139,Bin_4,790.4049136483354,Very Good,Finance
+19,Bin_1,Quantile_1,Young Adult (18-25),35182.04289425317,Quantile_3,Middle Income ($30k-$75k),29.96242108436629,Bin_2,710.2685348995985,Good,Marketing
+41,Bin_2,Quantile_2,Middle Age (36-50),23677.24659101082,Quantile_2,Low Income (<$30k),45.10296389582323,Bin_3,626.5851650311903,Fair,HR
+61,Bin_4,Quantile_4,Senior (51-65),8683.69836664992,Quantile_1,Low Income (<$30k),38.41898509929801,Bin_2,517.6954106534255,Poor,HR
+47,Bin_3,Quantile_3,Middle Age (36-50),48331.73356585307,Quantile_4,Middle Income ($30k-$75k),48.06593247913687,Bin_3,736.3345462505024,Good,HR
+55,Bin_4,Quantile_3,Senior (51-65),26065.674010148898,Quantile_2,Low Income (<$30k),43.83613953816771,Bin_3,569.9220717163315,Poor,Finance
+19,Bin_1,Quantile_1,Young Adult (18-25),38721.83648057417,Quantile_3,Middle Income ($30k-$75k),16.302785905155524,Bin_1,608.8701375239463,Fair,Sales
+77,Bin_5,Quantile_5,Elderly (65+),17774.209499785902,Quantile_1,Low Income (<$30k),36.51986913703161,Bin_2,621.3435920437281,Fair,Sales
+38,Bin_2,Quantile_2,Middle Age (36-50),27782.072070126407,Quantile_2,Low Income (<$30k),41.98558362896292,Bin_3,660.2464774303032,Fair,IT
+50,Bin_3,Quantile_3,Middle Age (36-50),126538.78145166214,Quantile_5,Upper Middle ($75k-$150k),25.65635032841154,Bin_2,604.0959552791352,Fair,Sales
+29,Bin_1,Quantile_1,Adult (26-35),40249.014579771756,Quantile_3,Middle Income ($30k-$75k),45.810220098659855,Bin_3,683.3458770992303,Good,HR
+75,Bin_5,Quantile_5,Elderly (65+),56368.235363334476,Quantile_4,Middle Income ($30k-$75k),24.759847582729698,Bin_1,617.8181699493608,Fair,HR
+39,Bin_2,Quantile_2,Middle Age (36-50),13138.505573719645,Quantile_1,Low Income (<$30k),32.01560952582946,Bin_2,750.1373064839223,Very Good,HR
+78,Bin_5,Quantile_5,Elderly (65+),245543.34432156087,Quantile_5,High Income (>$150k),53.41311919700135,Bin_3,783.1062913988053,Very Good,IT
+61,Bin_4,Quantile_4,Senior (51-65),158693.66801884712,Quantile_5,High Income (>$150k),31.162222111357316,Bin_2,690.8542676028438,Good,HR
+42,Bin_2,Quantile_2,Middle Age (36-50),108093.12388409236,Quantile_5,Upper Middle ($75k-$150k),45.73966959201675,Bin_3,726.2626335381102,Good,Sales
+66,Bin_4,Quantile_4,Elderly (65+),70474.96237351937,Quantile_4,Middle Income ($30k-$75k),22.46426282091313,Bin_1,850.0,Excellent,Finance
+44,Bin_3,Quantile_2,Middle Age (36-50),36758.12698376183,Quantile_3,Middle Income ($30k-$75k),60.813146567651415,Bin_4,562.7396743138684,Poor,Finance
+76,Bin_5,Quantile_5,Elderly (65+),51723.07125621025,Quantile_4,Middle Income ($30k-$75k),36.95446361512742,Bin_2,556.6531898719894,Poor,Marketing
+59,Bin_4,Quantile_4,Senior (51-65),83986.87328488844,Quantile_5,Upper Middle ($75k-$150k),40.95320806947719,Bin_3,749.4997900776875,Very Good,Sales
+45,Bin_3,Quantile_2,Middle Age (36-50),21963.65239215512,Quantile_2,Low Income (<$30k),41.79036796548965,Bin_3,850.0,Excellent,HR
+77,Bin_5,Quantile_5,Elderly (65+),25448.218120722304,Quantile_2,Low Income (<$30k),46.075668643313584,Bin_3,653.9501438061277,Fair,Finance
+33,Bin_2,Quantile_2,Adult (26-35),9553.798592124796,Quantile_1,Low Income (<$30k),24.808200170138228,Bin_1,850.0,Excellent,Sales
+32,Bin_2,Quantile_1,Adult (26-35),19585.499261203488,Quantile_2,Low Income (<$30k),39.94663529163337,Bin_3,689.643371879349,Good,Finance
+79,Bin_5,Quantile_5,Elderly (65+),137178.92635576928,Quantile_5,Upper Middle ($75k-$150k),33.41231174218643,Bin_2,611.9112717960918,Fair,HR
+79,Bin_5,Quantile_5,Elderly (65+),27794.74705809384,Quantile_2,Low Income (<$30k),23.1044277392173,Bin_1,580.9307611362296,Fair,Finance
+64,Bin_4,Quantile_4,Senior (51-65),28161.821011747437,Quantile_2,Low Income (<$30k),49.8712220012871,Bin_3,742.9413584886788,Very Good,Marketing
+79,Bin_5,Quantile_5,Elderly (65+),46826.9244832431,Quantile_4,Middle Income ($30k-$75k),36.478270164004094,Bin_2,588.5040932217303,Fair,Marketing
+68,Bin_5,Quantile_4,Elderly (65+),9998.777897524797,Quantile_1,Low Income (<$30k),42.42520425612519,Bin_3,688.1276842767028,Good,Finance
+61,Bin_4,Quantile_4,Senior (51-65),77366.20621843518,Quantile_5,Upper Middle ($75k-$150k),41.79845418728059,Bin_3,838.3465025384094,Excellent,Sales
+72,Bin_5,Quantile_5,Elderly (65+),100020.0039333271,Quantile_5,Upper Middle ($75k-$150k),36.651477276238865,Bin_2,649.321960712863,Fair,Sales
+69,Bin_5,Quantile_4,Elderly (65+),49110.93571819793,Quantile_4,Middle Income ($30k-$75k),59.750273536307816,Bin_4,811.4009474643899,Excellent,Sales
+74,Bin_5,Quantile_5,Elderly (65+),136091.2355162601,Quantile_5,Upper Middle ($75k-$150k),39.52735347370991,Bin_2,558.5456510273593,Poor,Finance
+20,Bin_1,Quantile_1,Young Adult (18-25),12563.292998793944,Quantile_1,Low Income (<$30k),24.420476823233322,Bin_1,626.60908986832,Fair,Sales
+54,Bin_3,Quantile_3,Senior (51-65),158732.018048142,Quantile_5,High Income (>$150k),35.99618639816682,Bin_2,539.2855973785083,Poor,HR
+68,Bin_5,Quantile_4,Elderly (65+),20239.81286212622,Quantile_2,Low Income (<$30k),44.9973762011211,Bin_3,687.2996755973357,Good,Marketing
+24,Bin_1,Quantile_1,Young Adult (18-25),13043.747946444135,Quantile_1,Low Income (<$30k),45.32595109370551,Bin_3,758.0078179716583,Very Good,HR
+38,Bin_2,Quantile_2,Middle Age (36-50),30034.032400529628,Quantile_3,Middle Income ($30k-$75k),29.122190647382382,Bin_2,687.5187087606187,Good,Sales
+26,Bin_1,Quantile_1,Adult (26-35),162365.38612662212,Quantile_5,High Income (>$150k),49.2948250734477,Bin_3,802.7050059970152,Excellent,HR
+56,Bin_4,Quantile_3,Senior (51-65),35755.03177898179,Quantile_3,Middle Income ($30k-$75k),22.3713307112896,Bin_1,605.082075937087,Fair,Sales
+35,Bin_2,Quantile_2,Adult (26-35),17221.720308294483,Quantile_1,Low Income (<$30k),51.44135202616418,Bin_3,702.5342753689067,Good,Finance
+21,Bin_1,Quantile_1,Young Adult (18-25),12887.923903792946,Quantile_1,Low Income (<$30k),26.806521108625944,Bin_2,627.2530676386143,Fair,HR
+42,Bin_2,Quantile_2,Middle Age (36-50),33386.44292790679,Quantile_3,Middle Income ($30k-$75k),37.73754780991324,Bin_2,716.1676585423655,Good,Finance
+77,Bin_5,Quantile_5,Elderly (65+),7361.586479349477,Quantile_1,Low Income (<$30k),50.645686780267,Bin_3,730.3736046212425,Good,Finance
+31,Bin_2,Quantile_1,Adult (26-35),12833.904366711697,Quantile_1,Low Income (<$30k),41.1960566888707,Bin_3,738.2395959984062,Good,IT
+67,Bin_5,Quantile_4,Elderly (65+),124798.30105547572,Quantile_5,Upper Middle ($75k-$150k),48.1669851771357,Bin_3,572.9405661764398,Poor,Sales
+75,Bin_5,Quantile_5,Elderly (65+),104674.52423579297,Quantile_5,Upper Middle ($75k-$150k),46.18661959709932,Bin_3,591.0253898213431,Fair,Marketing
+26,Bin_1,Quantile_1,Adult (26-35),32770.05050107886,Quantile_3,Middle Income ($30k-$75k),52.862686134046015,Bin_3,609.5712291808811,Fair,Sales
+43,Bin_3,Quantile_2,Middle Age (36-50),25020.935739863784,Quantile_2,Low Income (<$30k),50.62209850913712,Bin_3,656.1119252133402,Fair,Marketing
+70,Bin_5,Quantile_5,Elderly (65+),38055.736795466866,Quantile_3,Middle Income ($30k-$75k),35.462556914635584,Bin_2,688.718640420643,Good,Sales
+19,Bin_1,Quantile_1,Young Adult (18-25),237612.75382870232,Quantile_5,High Income (>$150k),46.32941633793465,Bin_3,750.8089121856676,Very Good,Finance
+37,Bin_2,Quantile_2,Middle Age (36-50),50210.54819515341,Quantile_4,Middle Income ($30k-$75k),24.734481383022533,Bin_1,595.1901300660768,Fair,HR
+45,Bin_3,Quantile_2,Middle Age (36-50),75191.27956391433,Quantile_4,Upper Middle ($75k-$150k),39.420950926622154,Bin_2,519.8980702298247,Poor,HR
+64,Bin_4,Quantile_4,Senior (51-65),30885.249280164975,Quantile_3,Middle Income ($30k-$75k),48.184847346385396,Bin_3,850.0,Excellent,IT
+77,Bin_5,Quantile_5,Elderly (65+),38128.498959816025,Quantile_3,Middle Income ($30k-$75k),41.33847654246,Bin_3,566.854697934757,Poor,Marketing
+24,Bin_1,Quantile_1,Young Adult (18-25),60945.18651268835,Quantile_4,Middle Income ($30k-$75k),44.46639731517086,Bin_3,763.6323722995551,Very Good,Marketing
+61,Bin_4,Quantile_4,Senior (51-65),40170.00541917016,Quantile_3,Middle Income ($30k-$75k),37.867276240342086,Bin_2,683.1266877248675,Good,Marketing
+78,Bin_5,Quantile_5,Elderly (65+),7959.316545301109,Quantile_1,Low Income (<$30k),51.29069437535143,Bin_3,705.130564080638,Good,Finance
+25,Bin_1,Quantile_1,Young Adult (18-25),101157.36062416708,Quantile_5,Upper Middle ($75k-$150k),39.19584226291008,Bin_2,679.8449494164097,Good,Marketing
+64,Bin_4,Quantile_4,Senior (51-65),22201.009899250872,Quantile_2,Low Income (<$30k),35.34549817595946,Bin_2,641.5158118052874,Fair,HR
+52,Bin_3,Quantile_3,Senior (51-65),196625.0929903597,Quantile_5,High Income (>$150k),48.865174125690544,Bin_3,726.3972282923459,Good,Finance
+31,Bin_2,Quantile_1,Adult (26-35),62911.1574067266,Quantile_4,Middle Income ($30k-$75k),25.9484007763554,Bin_2,636.1412793742704,Fair,Sales
+34,Bin_2,Quantile_2,Adult (26-35),38437.08133960487,Quantile_3,Middle Income ($30k-$75k),45.01033343517345,Bin_3,796.6302747236789,Very Good,Marketing
+53,Bin_3,Quantile_3,Senior (51-65),51609.53452841113,Quantile_4,Middle Income ($30k-$75k),29.575151257728614,Bin_2,736.8441006256154,Good,Marketing
+67,Bin_5,Quantile_4,Elderly (65+),33296.30434400415,Quantile_3,Middle Income ($30k-$75k),52.77926829238165,Bin_3,739.9594113281494,Good,Sales
+57,Bin_4,Quantile_4,Senior (51-65),24608.662329609466,Quantile_2,Low Income (<$30k),37.38972746753205,Bin_2,629.287693994341,Fair,Marketing
+21,Bin_1,Quantile_1,Young Adult (18-25),42876.47597842916,Quantile_3,Middle Income ($30k-$75k),41.349847208196884,Bin_3,656.3645262911004,Fair,Sales
+19,Bin_1,Quantile_1,Young Adult (18-25),73717.26960666657,Quantile_4,Middle Income ($30k-$75k),44.12570396644122,Bin_3,561.2087191357934,Poor,Finance
+79,Bin_5,Quantile_5,Elderly (65+),25043.665520049857,Quantile_2,Low Income (<$30k),20.703154036858425,Bin_1,644.6983943274438,Fair,HR
+23,Bin_1,Quantile_1,Young Adult (18-25),22075.204031400062,Quantile_2,Low Income (<$30k),33.494151584431435,Bin_2,576.3424083643703,Poor,Sales
+71,Bin_5,Quantile_5,Elderly (65+),27326.414767244805,Quantile_2,Low Income (<$30k),50.435459092865536,Bin_3,811.3068515588715,Excellent,IT
+59,Bin_4,Quantile_4,Senior (51-65),77777.60965258427,Quantile_5,Upper Middle ($75k-$150k),48.67765024170888,Bin_3,685.0535815594006,Good,Sales
+21,Bin_1,Quantile_1,Young Adult (18-25),116080.61643424176,Quantile_5,Upper Middle ($75k-$150k),42.830322053952166,Bin_3,697.0497235040431,Good,Marketing
+71,Bin_5,Quantile_5,Elderly (65+),48514.16662107629,Quantile_4,Middle Income ($30k-$75k),26.505364285744765,Bin_2,657.4853472649979,Fair,Finance
+46,Bin_3,Quantile_3,Middle Age (36-50),57817.761926995896,Quantile_4,Middle Income ($30k-$75k),45.85503460858579,Bin_3,699.7578922051408,Good,Finance
+35,Bin_2,Quantile_2,Adult (26-35),21943.7867398187,Quantile_2,Low Income (<$30k),47.13399590205446,Bin_3,850.0,Excellent,Sales
+43,Bin_3,Quantile_2,Middle Age (36-50),73233.16857735926,Quantile_4,Middle Income ($30k-$75k),40.47017213123745,Bin_3,649.9859715607508,Fair,HR
+61,Bin_4,Quantile_4,Senior (51-65),56465.75393781318,Quantile_4,Middle Income ($30k-$75k),52.23170950591457,Bin_3,614.9586965290007,Fair,IT
+51,Bin_3,Quantile_3,Senior (51-65),20576.3499312024,Quantile_2,Low Income (<$30k),33.16568209869877,Bin_2,732.9693132905443,Good,Finance
+27,Bin_1,Quantile_1,Adult (26-35),8689.430755820906,Quantile_1,Low Income (<$30k),34.901424225000255,Bin_2,427.4281366397512,Poor,Marketing
+79,Bin_5,Quantile_5,Elderly (65+),13677.999109787568,Quantile_1,Low Income (<$30k),15.153884209141854,Bin_1,686.3956786910933,Good,Marketing
+53,Bin_3,Quantile_3,Senior (51-65),21261.172852136493,Quantile_2,Low Income (<$30k),49.19827510147664,Bin_3,642.8287096707099,Fair,HR
+31,Bin_2,Quantile_1,Adult (26-35),92000.55183294932,Quantile_5,Upper Middle ($75k-$150k),43.13861963470134,Bin_3,580.7686733963906,Fair,Finance
+48,Bin_3,Quantile_3,Middle Age (36-50),125779.77266215894,Quantile_5,Upper Middle ($75k-$150k),23.181796748667708,Bin_1,730.77576703115,Good,Sales
+65,Bin_4,Quantile_4,Senior (51-65),25549.823807519493,Quantile_2,Low Income (<$30k),22.414010000058525,Bin_1,685.3988418445794,Good,Marketing
+32,Bin_2,Quantile_1,Adult (26-35),26204.009641270855,Quantile_2,Low Income (<$30k),31.273693726289892,Bin_2,499.75910925057826,Poor,HR
+25,Bin_1,Quantile_1,Young Adult (18-25),44770.21908445445,Quantile_4,Middle Income ($30k-$75k),47.936579419803536,Bin_3,615.3470478807562,Fair,Finance
+31,Bin_2,Quantile_1,Adult (26-35),36670.10803706411,Quantile_3,Middle Income ($30k-$75k),36.996395119113714,Bin_2,391.17287948072754,Poor,Finance
+40,Bin_2,Quantile_2,Middle Age (36-50),76477.14883698725,Quantile_5,Upper Middle ($75k-$150k),31.95213083339675,Bin_2,709.3269314133503,Good,Finance
+77,Bin_5,Quantile_5,Elderly (65+),23895.59771982657,Quantile_2,Low Income (<$30k),29.93884106916504,Bin_2,708.3299418440157,Good,Finance
+74,Bin_5,Quantile_5,Elderly (65+),77599.35468523388,Quantile_5,Upper Middle ($75k-$150k),29.49088042171813,Bin_2,600.6718106166327,Fair,Finance
+79,Bin_5,Quantile_5,Elderly (65+),29990.026689946506,Quantile_2,Low Income (<$30k),20.663216988924397,Bin_1,734.0112711683126,Good,Marketing
+57,Bin_4,Quantile_4,Senior (51-65),71910.65817782147,Quantile_4,Middle Income ($30k-$75k),27.926041683536255,Bin_2,551.7501378878478,Poor,HR
+38,Bin_2,Quantile_2,Middle Age (36-50),29236.336934237373,Quantile_2,Low Income (<$30k),29.294219203228327,Bin_2,583.3482974065007,Fair,Finance
+33,Bin_2,Quantile_2,Adult (26-35),22237.253647650716,Quantile_2,Low Income (<$30k),46.82623236457146,Bin_3,721.7190464382564,Good,IT
+62,Bin_4,Quantile_4,Senior (51-65),167686.94742096192,Quantile_5,High Income (>$150k),38.34276946853385,Bin_2,611.1333245037057,Fair,IT
+35,Bin_2,Quantile_2,Adult (26-35),85151.02009857185,Quantile_5,Upper Middle ($75k-$150k),31.74415156982539,Bin_2,673.7343043797556,Good,HR
+64,Bin_4,Quantile_4,Senior (51-65),8659.081381509253,Quantile_1,Low Income (<$30k),63.09722755406187,Bin_4,623.6350972573657,Fair,Sales
+70,Bin_5,Quantile_5,Elderly (65+),25401.94920884852,Quantile_2,Low Income (<$30k),33.36103086453334,Bin_2,638.9068843700816,Fair,Sales
+41,Bin_2,Quantile_2,Middle Age (36-50),95219.33866838823,Quantile_5,Upper Middle ($75k-$150k),51.671029143836364,Bin_3,643.2775784045007,Fair,Sales
+43,Bin_3,Quantile_2,Middle Age (36-50),13942.146093167357,Quantile_1,Low Income (<$30k),56.21108557787716,Bin_4,609.3243242781822,Fair,IT
+42,Bin_2,Quantile_2,Middle Age (36-50),67274.91173683095,Quantile_4,Middle Income ($30k-$75k),24.300396623426572,Bin_1,710.2449714360124,Good,Sales
+77,Bin_5,Quantile_5,Elderly (65+),61922.87157638042,Quantile_4,Middle Income ($30k-$75k),40.73962964073568,Bin_3,617.2071513246051,Fair,Marketing
+77,Bin_5,Quantile_5,Elderly (65+),20757.911654165557,Quantile_2,Low Income (<$30k),34.82466349091776,Bin_2,681.5686713795602,Good,Finance
+77,Bin_5,Quantile_5,Elderly (65+),36060.24759768242,Quantile_3,Middle Income ($30k-$75k),34.01075603440664,Bin_2,607.1268318625597,Fair,IT
+62,Bin_4,Quantile_4,Senior (51-65),6822.531032302448,Quantile_1,Low Income (<$30k),45.553768168069084,Bin_3,526.5701373615541,Poor,HR
+58,Bin_4,Quantile_4,Senior (51-65),149693.5095746989,Quantile_5,Upper Middle ($75k-$150k),33.77129503576716,Bin_2,771.2435249259166,Very Good,HR
+46,Bin_3,Quantile_3,Middle Age (36-50),28359.74510136338,Quantile_2,Low Income (<$30k),35.04030953673529,Bin_2,729.9526985095408,Good,Finance
+32,Bin_2,Quantile_1,Adult (26-35),69082.06613359196,Quantile_4,Middle Income ($30k-$75k),38.31885104374707,Bin_2,850.0,Excellent,IT
+62,Bin_4,Quantile_4,Senior (51-65),59342.02823643188,Quantile_4,Middle Income ($30k-$75k),36.26600731623431,Bin_2,575.6027160001742,Poor,Sales
+18,Bin_1,Quantile_1,Young Adult (18-25),107613.84941688715,Quantile_5,Upper Middle ($75k-$150k),28.264297929878747,Bin_2,659.1039512667969,Fair,Sales
+42,Bin_2,Quantile_2,Middle Age (36-50),25677.16294491623,Quantile_2,Low Income (<$30k),47.95906504847474,Bin_3,667.1492519144194,Fair,Marketing
+24,Bin_1,Quantile_1,Young Adult (18-25),42747.16609627374,Quantile_3,Middle Income ($30k-$75k),50.48530938507601,Bin_3,778.9369438282131,Very Good,Marketing
+26,Bin_1,Quantile_1,Adult (26-35),56799.75901983032,Quantile_4,Middle Income ($30k-$75k),43.436185895352175,Bin_3,629.2892105867392,Fair,Sales
+41,Bin_2,Quantile_2,Middle Age (36-50),72986.75557162863,Quantile_4,Middle Income ($30k-$75k),36.23447348977734,Bin_2,562.8958145824146,Poor,HR
+18,Bin_1,Quantile_1,Young Adult (18-25),91444.13064460686,Quantile_5,Upper Middle ($75k-$150k),32.947892636702186,Bin_2,800.7809308461002,Excellent,HR
+61,Bin_4,Quantile_4,Senior (51-65),24787.49610121636,Quantile_2,Low Income (<$30k),32.963799370735536,Bin_2,648.3349970738772,Fair,Marketing
+25,Bin_1,Quantile_1,Young Adult (18-25),21345.96580122832,Quantile_2,Low Income (<$30k),63.57376365032708,Bin_4,767.8643509726043,Very Good,Finance
+41,Bin_2,Quantile_2,Middle Age (36-50),107806.0537373479,Quantile_5,Upper Middle ($75k-$150k),49.378383015666444,Bin_3,756.2198400792212,Very Good,Sales
+28,Bin_1,Quantile_1,Adult (26-35),7117.6952561311155,Quantile_1,Low Income (<$30k),31.598899214166615,Bin_2,677.01095260977,Good,Marketing
+68,Bin_5,Quantile_4,Elderly (65+),127519.65957434985,Quantile_5,Upper Middle ($75k-$150k),41.646978274371406,Bin_3,662.5686294965252,Fair,Marketing
+34,Bin_2,Quantile_2,Adult (26-35),28513.71864305872,Quantile_2,Low Income (<$30k),36.37464974900637,Bin_2,640.8435193670196,Fair,Sales
+25,Bin_1,Quantile_1,Young Adult (18-25),36183.183178942294,Quantile_3,Middle Income ($30k-$75k),45.83800376156291,Bin_3,678.4806871230011,Good,Sales
+52,Bin_3,Quantile_3,Senior (51-65),21038.84813891812,Quantile_2,Low Income (<$30k),45.43499102789342,Bin_3,766.310022617063,Very Good,HR
+52,Bin_3,Quantile_3,Senior (51-65),34941.95766908408,Quantile_3,Middle Income ($30k-$75k),50.83609653905471,Bin_3,600.3559818940421,Fair,Finance
+50,Bin_3,Quantile_3,Middle Age (36-50),100399.30669470836,Quantile_5,Upper Middle ($75k-$150k),31.494435413378042,Bin_2,690.8845630209121,Good,Finance
+76,Bin_5,Quantile_5,Elderly (65+),67284.85688466043,Quantile_4,Middle Income ($30k-$75k),41.047352986381306,Bin_3,568.1368571801193,Poor,Sales
+22,Bin_1,Quantile_1,Young Adult (18-25),53860.31350245354,Quantile_4,Middle Income ($30k-$75k),22.514530150424736,Bin_1,580.5893766957807,Fair,IT
+59,Bin_4,Quantile_4,Senior (51-65),38991.47864302912,Quantile_3,Middle Income ($30k-$75k),27.426596995711556,Bin_2,676.9061002844376,Good,Marketing
+56,Bin_4,Quantile_3,Senior (51-65),11424.460824242651,Quantile_1,Low Income (<$30k),48.8410083655918,Bin_3,483.9841991706168,Poor,Marketing
+75,Bin_5,Quantile_5,Elderly (65+),18484.548931115245,Quantile_1,Low Income (<$30k),30.49316208594673,Bin_2,850.0,Excellent,Sales
+58,Bin_4,Quantile_4,Senior (51-65),27596.3559087092,Quantile_2,Low Income (<$30k),31.59091201952145,Bin_2,560.6940045089764,Poor,IT
+45,Bin_3,Quantile_2,Middle Age (36-50),52372.72206797656,Quantile_4,Middle Income ($30k-$75k),39.91721925449951,Bin_3,675.9911487343446,Good,HR
+24,Bin_1,Quantile_1,Young Adult (18-25),38396.52085032854,Quantile_3,Middle Income ($30k-$75k),46.9476103084654,Bin_3,796.8217721816865,Very Good,Sales
+26,Bin_1,Quantile_1,Adult (26-35),79762.07701341897,Quantile_5,Upper Middle ($75k-$150k),29.39173204165904,Bin_2,593.7094661249502,Fair,Sales
+25,Bin_1,Quantile_1,Young Adult (18-25),53045.3194002196,Quantile_4,Middle Income ($30k-$75k),10.0,Bin_1,449.73030104552834,Poor,Marketing
+29,Bin_1,Quantile_1,Adult (26-35),37929.34865903645,Quantile_3,Middle Income ($30k-$75k),31.297767578564883,Bin_2,635.5054239875328,Fair,Sales
+51,Bin_3,Quantile_3,Senior (51-65),224270.68984065112,Quantile_5,High Income (>$150k),52.05628077952837,Bin_3,592.5179619923881,Fair,Sales
+50,Bin_3,Quantile_3,Middle Age (36-50),50260.83115359535,Quantile_4,Middle Income ($30k-$75k),43.431350510168734,Bin_3,452.36264914079976,Poor,Sales
+65,Bin_4,Quantile_4,Senior (51-65),25705.139687099665,Quantile_2,Low Income (<$30k),53.23874803787213,Bin_3,708.4889892572199,Good,Marketing
+72,Bin_5,Quantile_5,Elderly (65+),160809.16095052147,Quantile_5,High Income (>$150k),28.681838578673045,Bin_2,700.7093862232952,Good,HR
+40,Bin_2,Quantile_2,Middle Age (36-50),94876.30207654556,Quantile_5,Upper Middle ($75k-$150k),23.606037323359438,Bin_1,794.2326454538352,Very Good,HR
+79,Bin_5,Quantile_5,Elderly (65+),155262.14605509673,Quantile_5,High Income (>$150k),44.6254855264754,Bin_3,567.9177634479613,Poor,Sales
+41,Bin_2,Quantile_2,Middle Age (36-50),33231.53161090561,Quantile_3,Middle Income ($30k-$75k),42.40022737685046,Bin_3,520.0863513552987,Poor,Marketing
+54,Bin_3,Quantile_3,Senior (51-65),79304.27387462821,Quantile_5,Upper Middle ($75k-$150k),43.05554320377259,Bin_3,639.3276916953416,Fair,HR
+52,Bin_3,Quantile_3,Senior (51-65),11358.486272566315,Quantile_1,Low Income (<$30k),49.32996642650568,Bin_3,671.1657340990905,Good,HR
+61,Bin_4,Quantile_4,Senior (51-65),67996.06594477453,Quantile_4,Middle Income ($30k-$75k),44.216849239122595,Bin_3,772.1349602986496,Very Good,HR
+57,Bin_4,Quantile_4,Senior (51-65),32010.550590589384,Quantile_3,Middle Income ($30k-$75k),44.056175931403786,Bin_3,821.0568005005159,Excellent,Marketing
+39,Bin_2,Quantile_2,Middle Age (36-50),12282.780922937614,Quantile_1,Low Income (<$30k),47.15007013801141,Bin_3,801.4479133907347,Excellent,Marketing
+44,Bin_3,Quantile_2,Middle Age (36-50),82957.21925320337,Quantile_5,Upper Middle ($75k-$150k),45.024166321870275,Bin_3,707.6543666892667,Good,Sales
+52,Bin_3,Quantile_3,Senior (51-65),8534.695346688972,Quantile_1,Low Income (<$30k),48.57445931717406,Bin_3,759.9499253504148,Very Good,Finance
+18,Bin_1,Quantile_1,Young Adult (18-25),7862.302538464784,Quantile_1,Low Income (<$30k),50.085208247785815,Bin_3,615.9506565230815,Fair,HR
+52,Bin_3,Quantile_3,Senior (51-65),48532.12200341249,Quantile_4,Middle Income ($30k-$75k),55.31688801240915,Bin_4,696.8395192475247,Good,Finance
+54,Bin_3,Quantile_3,Senior (51-65),57358.596589356246,Quantile_4,Middle Income ($30k-$75k),33.50808675096321,Bin_2,560.8709860712194,Poor,Marketing
+64,Bin_4,Quantile_4,Senior (51-65),78938.08231759055,Quantile_5,Upper Middle ($75k-$150k),44.80562107410747,Bin_3,686.2685396886873,Good,Marketing
+31,Bin_2,Quantile_1,Adult (26-35),65747.07176952668,Quantile_4,Middle Income ($30k-$75k),36.29676631402703,Bin_2,688.8646697398012,Good,Marketing
+20,Bin_1,Quantile_1,Young Adult (18-25),118341.15785759894,Quantile_5,Upper Middle ($75k-$150k),31.664410127207333,Bin_2,850.0,Excellent,Finance
+18,Bin_1,Quantile_1,Young Adult (18-25),63588.909976809584,Quantile_4,Middle Income ($30k-$75k),33.104596789196336,Bin_2,657.1017138509753,Fair,Marketing
+22,Bin_1,Quantile_1,Young Adult (18-25),32668.29925226799,Quantile_3,Middle Income ($30k-$75k),44.94955517561525,Bin_3,689.0042837653286,Good,Sales
+43,Bin_3,Quantile_2,Middle Age (36-50),34238.67415394411,Quantile_3,Middle Income ($30k-$75k),44.18252554786,Bin_3,703.6961415712043,Good,Marketing
+72,Bin_5,Quantile_5,Elderly (65+),28975.99619507583,Quantile_2,Low Income (<$30k),44.00412029238437,Bin_3,634.5179684111547,Fair,IT
+31,Bin_2,Quantile_1,Adult (26-35),45999.325832036804,Quantile_4,Middle Income ($30k-$75k),37.74286352430667,Bin_2,599.7507266788352,Fair,Finance
+56,Bin_4,Quantile_3,Senior (51-65),15095.06736922188,Quantile_1,Low Income (<$30k),40.034147511784106,Bin_3,809.8811324847052,Excellent,IT
+44,Bin_3,Quantile_2,Middle Age (36-50),47702.436672238284,Quantile_4,Middle Income ($30k-$75k),48.177526958760495,Bin_3,581.9082557039702,Fair,Marketing
+26,Bin_1,Quantile_1,Adult (26-35),33889.79428607448,Quantile_3,Middle Income ($30k-$75k),25.10606940350694,Bin_2,547.2081928312728,Poor,Sales
+32,Bin_2,Quantile_1,Adult (26-35),45274.90236720787,Quantile_4,Middle Income ($30k-$75k),40.24642098428584,Bin_3,748.026537929548,Very Good,HR
+32,Bin_2,Quantile_1,Adult (26-35),45386.883290365426,Quantile_4,Middle Income ($30k-$75k),40.899561481267895,Bin_3,795.781484202401,Very Good,Marketing
+43,Bin_3,Quantile_2,Middle Age (36-50),5106.085378885205,Quantile_1,Low Income (<$30k),47.53304269077649,Bin_3,634.8590342399361,Fair,Sales
+59,Bin_4,Quantile_4,Senior (51-65),17658.36601187304,Quantile_1,Low Income (<$30k),26.497515880571747,Bin_2,636.394651235012,Fair,Finance
+77,Bin_5,Quantile_5,Elderly (65+),33292.821052864994,Quantile_3,Middle Income ($30k-$75k),54.95133745517411,Bin_4,708.2543526106793,Good,IT
+30,Bin_1,Quantile_1,Adult (26-35),34738.78389779525,Quantile_3,Middle Income ($30k-$75k),42.1363042442851,Bin_3,609.2147323256817,Fair,IT
+68,Bin_5,Quantile_4,Elderly (65+),44690.28625253395,Quantile_4,Middle Income ($30k-$75k),42.665805466949365,Bin_3,601.8287479388032,Fair,IT
+49,Bin_3,Quantile_3,Middle Age (36-50),46252.86246984659,Quantile_4,Middle Income ($30k-$75k),35.986202426677735,Bin_2,767.9592587986366,Very Good,Finance
+56,Bin_4,Quantile_3,Senior (51-65),122147.75022063787,Quantile_5,Upper Middle ($75k-$150k),45.38022354796844,Bin_3,740.7131100783619,Very Good,Sales
+66,Bin_4,Quantile_4,Elderly (65+),46628.47965717897,Quantile_4,Middle Income ($30k-$75k),40.47954050283106,Bin_3,811.1158886318105,Excellent,Finance
+69,Bin_5,Quantile_4,Elderly (65+),28270.69496257953,Quantile_2,Low Income (<$30k),52.089819441064655,Bin_3,554.7410987634504,Poor,IT
+78,Bin_5,Quantile_5,Elderly (65+),10104.14709449329,Quantile_1,Low Income (<$30k),25.585057519363847,Bin_2,629.7537513089384,Fair,Marketing
+49,Bin_3,Quantile_3,Middle Age (36-50),12150.528035867334,Quantile_1,Low Income (<$30k),41.75545829890508,Bin_3,708.1179562269452,Good,HR
+21,Bin_1,Quantile_1,Young Adult (18-25),55736.6638905102,Quantile_4,Middle Income ($30k-$75k),44.08512348377426,Bin_3,587.4379150225634,Fair,Finance
+47,Bin_3,Quantile_3,Middle Age (36-50),84826.00616923625,Quantile_5,Upper Middle ($75k-$150k),38.136276056369084,Bin_2,744.168743715465,Very Good,Finance
+54,Bin_3,Quantile_3,Senior (51-65),124629.02423992104,Quantile_5,Upper Middle ($75k-$150k),35.95334176692954,Bin_2,802.4627087226331,Excellent,Sales
+40,Bin_2,Quantile_2,Middle Age (36-50),18726.3244376628,Quantile_1,Low Income (<$30k),36.370427210312926,Bin_2,621.6642027772651,Fair,Sales
+56,Bin_4,Quantile_3,Senior (51-65),28478.606967033375,Quantile_2,Low Income (<$30k),41.74639269367828,Bin_3,683.8591940227033,Good,Finance
+62,Bin_4,Quantile_4,Senior (51-65),44084.65090749245,Quantile_3,Middle Income ($30k-$75k),21.90041099019294,Bin_1,825.5618690081117,Excellent,IT
+32,Bin_2,Quantile_1,Adult (26-35),186823.41350858365,Quantile_5,High Income (>$150k),49.6501496106323,Bin_3,850.0,Excellent,HR
+60,Bin_4,Quantile_4,Senior (51-65),39810.62735388366,Quantile_3,Middle Income ($30k-$75k),35.19868132304149,Bin_2,754.5801251060403,Very Good,Sales
+46,Bin_3,Quantile_3,Middle Age (36-50),125619.18696210408,Quantile_5,Upper Middle ($75k-$150k),41.27802697366783,Bin_3,739.3429173193609,Good,IT
+53,Bin_3,Quantile_3,Senior (51-65),41605.11195884439,Quantile_3,Middle Income ($30k-$75k),43.67102266788067,Bin_3,594.6263465315088,Fair,Marketing
+30,Bin_1,Quantile_1,Adult (26-35),91363.02628186882,Quantile_5,Upper Middle ($75k-$150k),34.74194612687043,Bin_2,715.920940045784,Good,Sales
+49,Bin_3,Quantile_3,Middle Age (36-50),82558.62097272639,Quantile_5,Upper Middle ($75k-$150k),38.68961593001004,Bin_2,735.6820840774998,Good,IT
+24,Bin_1,Quantile_1,Young Adult (18-25),41476.011626900356,Quantile_3,Middle Income ($30k-$75k),19.647597593744962,Bin_1,658.9629841438955,Fair,IT
+76,Bin_5,Quantile_5,Elderly (65+),16053.680263673014,Quantile_1,Low Income (<$30k),47.321236073330724,Bin_3,620.5223745444338,Fair,HR
+68,Bin_5,Quantile_4,Elderly (65+),29281.88808158162,Quantile_2,Low Income (<$30k),50.800690003221646,Bin_3,551.8702326523145,Poor,HR
+39,Bin_2,Quantile_2,Middle Age (36-50),119519.65802280637,Quantile_5,Upper Middle ($75k-$150k),22.990064480612464,Bin_1,506.22702449487076,Poor,Marketing
+45,Bin_3,Quantile_2,Middle Age (36-50),73295.91341237618,Quantile_4,Middle Income ($30k-$75k),35.935071233037384,Bin_2,485.2116486678837,Poor,IT
+19,Bin_1,Quantile_1,Young Adult (18-25),25670.03759932158,Quantile_2,Low Income (<$30k),27.701306217591856,Bin_2,737.9442572867262,Good,IT
+59,Bin_4,Quantile_4,Senior (51-65),27616.06890800763,Quantile_2,Low Income (<$30k),38.222596785125944,Bin_2,694.7699325226777,Good,HR
+62,Bin_4,Quantile_4,Senior (51-65),9093.376014796326,Quantile_1,Low Income (<$30k),46.48636334720961,Bin_3,631.6188868458903,Fair,Sales
+79,Bin_5,Quantile_5,Elderly (65+),115320.56297436853,Quantile_5,Upper Middle ($75k-$150k),49.87308899256625,Bin_3,646.8543702275362,Fair,Sales
+74,Bin_5,Quantile_5,Elderly (65+),73780.58117076171,Quantile_4,Middle Income ($30k-$75k),51.21853189426848,Bin_3,701.0470541530484,Good,Finance
+70,Bin_5,Quantile_5,Elderly (65+),32543.656477705565,Quantile_3,Middle Income ($30k-$75k),53.105438246922134,Bin_3,663.5436928991406,Fair,HR
+23,Bin_1,Quantile_1,Young Adult (18-25),42621.22021468998,Quantile_3,Middle Income ($30k-$75k),37.775872215444345,Bin_2,545.9446819996172,Poor,Finance
+45,Bin_3,Quantile_2,Middle Age (36-50),6395.227816229829,Quantile_1,Low Income (<$30k),28.530413712665606,Bin_2,771.3000220274299,Very Good,HR
+45,Bin_3,Quantile_2,Middle Age (36-50),24603.116556035973,Quantile_2,Low Income (<$30k),38.85409699692031,Bin_2,710.4126170669809,Good,Marketing
+61,Bin_4,Quantile_4,Senior (51-65),105615.08735103042,Quantile_5,Upper Middle ($75k-$150k),46.33267502303576,Bin_3,706.5898479813849,Good,IT
+61,Bin_4,Quantile_4,Senior (51-65),79637.30369056489,Quantile_5,Upper Middle ($75k-$150k),27.727402190791427,Bin_2,763.7562703358373,Very Good,Marketing
+37,Bin_2,Quantile_2,Middle Age (36-50),47313.9494629402,Quantile_4,Middle Income ($30k-$75k),56.601369534482416,Bin_4,598.6354643940325,Fair,HR
+47,Bin_3,Quantile_3,Middle Age (36-50),35890.4094695656,Quantile_3,Middle Income ($30k-$75k),48.97888538760342,Bin_3,801.3731437725842,Excellent,IT
+79,Bin_5,Quantile_5,Elderly (65+),68673.88972607465,Quantile_4,Middle Income ($30k-$75k),37.93432831568671,Bin_2,665.9957148057762,Fair,Sales
+28,Bin_1,Quantile_1,Adult (26-35),28995.383735376123,Quantile_2,Low Income (<$30k),32.89128069588759,Bin_2,768.8598880330875,Very Good,Sales
+75,Bin_5,Quantile_5,Elderly (65+),9587.787604083978,Quantile_1,Low Income (<$30k),33.30878918887357,Bin_2,753.4449033487655,Very Good,Finance
+72,Bin_5,Quantile_5,Elderly (65+),36135.84862395569,Quantile_3,Middle Income ($30k-$75k),40.74206213800155,Bin_3,576.1198171997444,Poor,HR
+45,Bin_3,Quantile_2,Middle Age (36-50),50136.043606504376,Quantile_4,Middle Income ($30k-$75k),37.705973972696476,Bin_2,730.2900404914136,Good,HR
+42,Bin_2,Quantile_2,Middle Age (36-50),89155.93086064841,Quantile_5,Upper Middle ($75k-$150k),49.50502755282625,Bin_3,712.6274670846685,Good,Sales
+56,Bin_4,Quantile_3,Senior (51-65),11464.876136376955,Quantile_1,Low Income (<$30k),36.57024171697371,Bin_2,683.0311657494342,Good,Marketing
+79,Bin_5,Quantile_5,Elderly (65+),32914.578521412084,Quantile_3,Middle Income ($30k-$75k),45.055018106114915,Bin_3,670.5628249964619,Good,IT
+50,Bin_3,Quantile_3,Middle Age (36-50),34192.34529433886,Quantile_3,Middle Income ($30k-$75k),39.7107511582513,Bin_2,671.4106750282208,Good,Marketing
+18,Bin_1,Quantile_1,Young Adult (18-25),15047.971486195473,Quantile_1,Low Income (<$30k),42.696693573970705,Bin_3,761.2689425643996,Very Good,Marketing
+74,Bin_5,Quantile_5,Elderly (65+),53644.73568464371,Quantile_4,Middle Income ($30k-$75k),37.69943564403617,Bin_2,737.791051379151,Good,Sales
+44,Bin_3,Quantile_2,Middle Age (36-50),66031.97842715618,Quantile_4,Middle Income ($30k-$75k),47.077155412496204,Bin_3,683.0478850265665,Good,Sales
+79,Bin_5,Quantile_5,Elderly (65+),28780.2927842802,Quantile_2,Low Income (<$30k),47.22540080290077,Bin_3,530.8063853528625,Poor,Sales
+74,Bin_5,Quantile_5,Elderly (65+),187976.8483016491,Quantile_5,High Income (>$150k),44.599290258221444,Bin_3,729.4443414083619,Good,Finance
+69,Bin_5,Quantile_4,Elderly (65+),28127.752291525976,Quantile_2,Low Income (<$30k),46.075143271495044,Bin_3,752.3613619177779,Very Good,Marketing
+30,Bin_1,Quantile_1,Adult (26-35),25403.779050295805,Quantile_2,Low Income (<$30k),30.556312224569474,Bin_2,850.0,Excellent,HR
+58,Bin_4,Quantile_4,Senior (51-65),24821.436197897885,Quantile_2,Low Income (<$30k),43.232457629089794,Bin_3,787.5433063105038,Very Good,IT
+20,Bin_1,Quantile_1,Young Adult (18-25),18912.923328380733,Quantile_1,Low Income (<$30k),52.492017674875335,Bin_3,490.0823612084532,Poor,Finance
+56,Bin_4,Quantile_3,Senior (51-65),23220.24033198288,Quantile_2,Low Income (<$30k),44.91404567019497,Bin_3,687.8429399018643,Good,HR
+23,Bin_1,Quantile_1,Young Adult (18-25),11530.245491889022,Quantile_1,Low Income (<$30k),29.69282497198477,Bin_2,850.0,Excellent,Marketing
+25,Bin_1,Quantile_1,Young Adult (18-25),31156.36199835575,Quantile_3,Middle Income ($30k-$75k),39.50233490350915,Bin_2,742.3548856901638,Very Good,Sales
+44,Bin_3,Quantile_2,Middle Age (36-50),38024.24275076636,Quantile_3,Middle Income ($30k-$75k),43.74977938339709,Bin_3,712.8652160373209,Good,Marketing
+26,Bin_1,Quantile_1,Adult (26-35),5847.432809740062,Quantile_1,Low Income (<$30k),32.42600483101691,Bin_2,770.0228658915236,Very Good,IT
+79,Bin_5,Quantile_5,Elderly (65+),33471.19141299011,Quantile_3,Middle Income ($30k-$75k),26.41728803276647,Bin_2,617.7621805009197,Fair,Finance
+54,Bin_3,Quantile_3,Senior (51-65),37560.463195455755,Quantile_3,Middle Income ($30k-$75k),36.83902131563473,Bin_2,727.8089996627456,Good,Finance
+50,Bin_3,Quantile_3,Middle Age (36-50),54812.37083109166,Quantile_4,Middle Income ($30k-$75k),32.59167592032298,Bin_2,654.9531961008089,Fair,IT
+68,Bin_5,Quantile_4,Elderly (65+),95197.41414429022,Quantile_5,Upper Middle ($75k-$150k),39.85710968610031,Bin_3,678.0376514189526,Good,HR
+59,Bin_4,Quantile_4,Senior (51-65),71760.06565667917,Quantile_4,Middle Income ($30k-$75k),24.085953525037116,Bin_1,762.8454515695107,Very Good,HR
+61,Bin_4,Quantile_4,Senior (51-65),22108.314135210647,Quantile_2,Low Income (<$30k),45.64701062536156,Bin_3,587.3286897507819,Fair,Finance
+41,Bin_2,Quantile_2,Middle Age (36-50),20148.200580953868,Quantile_2,Low Income (<$30k),33.65394964706643,Bin_2,808.7982473801939,Excellent,Finance
+32,Bin_2,Quantile_1,Adult (26-35),57734.114747598294,Quantile_4,Middle Income ($30k-$75k),49.95752236681356,Bin_3,637.7188038914456,Fair,Sales
+76,Bin_5,Quantile_5,Elderly (65+),23439.45824314372,Quantile_2,Low Income (<$30k),37.23101160203622,Bin_2,706.0662833150408,Good,HR
+71,Bin_5,Quantile_5,Elderly (65+),13596.351785892763,Quantile_1,Low Income (<$30k),39.74610953615513,Bin_2,539.9492039725058,Poor,IT
+49,Bin_3,Quantile_3,Middle Age (36-50),242634.9658443724,Quantile_5,High Income (>$150k),38.26965121303082,Bin_2,751.9837290871391,Very Good,HR
+49,Bin_3,Quantile_3,Middle Age (36-50),28322.74832026704,Quantile_2,Low Income (<$30k),33.11840309899728,Bin_2,824.6503935946578,Excellent,Sales
+41,Bin_2,Quantile_2,Middle Age (36-50),21999.62427640007,Quantile_2,Low Income (<$30k),64.7227946227266,Bin_4,628.5358450781853,Fair,Finance
+58,Bin_4,Quantile_4,Senior (51-65),6287.356273155341,Quantile_1,Low Income (<$30k),35.041338219927155,Bin_2,568.97766134904,Poor,Finance
+69,Bin_5,Quantile_4,Elderly (65+),71762.81140881796,Quantile_4,Middle Income ($30k-$75k),50.2352152246566,Bin_3,707.7983064742708,Good,Sales
+66,Bin_4,Quantile_4,Elderly (65+),16475.85612901292,Quantile_1,Low Income (<$30k),29.06371053936605,Bin_2,825.4810644991743,Excellent,IT
+79,Bin_5,Quantile_5,Elderly (65+),37156.590902022945,Quantile_3,Middle Income ($30k-$75k),43.72131391093161,Bin_3,535.0143434519094,Poor,Finance
+66,Bin_4,Quantile_4,Elderly (65+),78818.14572570739,Quantile_5,Upper Middle ($75k-$150k),44.788721639318354,Bin_3,569.3691818771658,Poor,Marketing
+75,Bin_5,Quantile_5,Elderly (65+),16683.661426746618,Quantile_1,Low Income (<$30k),39.7582302290187,Bin_2,634.5810441688484,Fair,Finance
+69,Bin_5,Quantile_4,Elderly (65+),38699.65489181806,Quantile_3,Middle Income ($30k-$75k),34.289952803604265,Bin_2,597.9656175469304,Fair,Marketing
+29,Bin_1,Quantile_1,Adult (26-35),122888.15701730106,Quantile_5,Upper Middle ($75k-$150k),37.36678097386036,Bin_2,598.2814533391005,Fair,Sales
+79,Bin_5,Quantile_5,Elderly (65+),5087.807929026757,Quantile_1,Low Income (<$30k),35.9671049802688,Bin_2,470.58793723362226,Poor,Sales
+56,Bin_4,Quantile_3,Senior (51-65),18988.623628290734,Quantile_1,Low Income (<$30k),64.02026281835455,Bin_4,738.9056947405868,Good,Finance
+19,Bin_1,Quantile_1,Young Adult (18-25),17612.5411562936,Quantile_1,Low Income (<$30k),39.77396910555181,Bin_2,713.8720502869635,Good,HR
+20,Bin_1,Quantile_1,Young Adult (18-25),31271.921647441784,Quantile_3,Middle Income ($30k-$75k),45.24888778663951,Bin_3,510.11508001963546,Poor,Marketing
+66,Bin_4,Quantile_4,Elderly (65+),34953.269740790995,Quantile_3,Middle Income ($30k-$75k),57.81625090425367,Bin_4,825.7195759956246,Excellent,IT
+54,Bin_3,Quantile_3,Senior (51-65),15537.160630892971,Quantile_1,Low Income (<$30k),31.236813320258186,Bin_2,848.1092314930488,Excellent,Finance
+66,Bin_4,Quantile_4,Elderly (65+),21514.907008861603,Quantile_2,Low Income (<$30k),40.37660233167938,Bin_3,604.9094450219886,Fair,IT
+73,Bin_5,Quantile_5,Elderly (65+),19563.48355592382,Quantile_2,Low Income (<$30k),37.30813868318611,Bin_2,796.6548590977006,Very Good,Finance
+34,Bin_2,Quantile_2,Adult (26-35),27429.342234568096,Quantile_2,Low Income (<$30k),39.13861554516636,Bin_2,622.7002195009054,Fair,HR
+76,Bin_5,Quantile_5,Elderly (65+),43242.46104314331,Quantile_3,Middle Income ($30k-$75k),38.20988032882514,Bin_2,698.1116510211061,Good,HR
+66,Bin_4,Quantile_4,Elderly (65+),75240.97921598995,Quantile_4,Upper Middle ($75k-$150k),32.68122914369783,Bin_2,596.4237864979091,Fair,HR
+19,Bin_1,Quantile_1,Young Adult (18-25),84479.55211332154,Quantile_5,Upper Middle ($75k-$150k),41.95410284996633,Bin_3,850.0,Excellent,HR
+19,Bin_1,Quantile_1,Young Adult (18-25),61261.53327621607,Quantile_4,Middle Income ($30k-$75k),29.373672225838984,Bin_2,650.3982772670103,Fair,Sales
+45,Bin_3,Quantile_2,Middle Age (36-50),18048.551376882217,Quantile_1,Low Income (<$30k),49.88882737309018,Bin_3,692.6449022823463,Good,Sales
+71,Bin_5,Quantile_5,Elderly (65+),36219.8744001496,Quantile_3,Middle Income ($30k-$75k),46.233098066546034,Bin_3,611.2062612536173,Fair,Marketing
+40,Bin_2,Quantile_2,Middle Age (36-50),242671.39489878542,Quantile_5,High Income (>$150k),35.065371836359844,Bin_2,850.0,Excellent,IT
+54,Bin_3,Quantile_3,Senior (51-65),81766.76581464557,Quantile_5,Upper Middle ($75k-$150k),35.55016678626141,Bin_2,850.0,Excellent,Finance
+49,Bin_3,Quantile_3,Middle Age (36-50),25529.664095463875,Quantile_2,Low Income (<$30k),42.75510562348253,Bin_3,843.0929181262941,Excellent,Finance
+50,Bin_3,Quantile_3,Middle Age (36-50),128750.3512105282,Quantile_5,Upper Middle ($75k-$150k),32.01454684393818,Bin_2,775.6440348347622,Very Good,Sales
+18,Bin_1,Quantile_1,Young Adult (18-25),26623.369139577455,Quantile_2,Low Income (<$30k),58.11980124134871,Bin_4,617.5210453065947,Fair,Finance
+36,Bin_2,Quantile_2,Middle Age (36-50),21274.797290974602,Quantile_2,Low Income (<$30k),43.57925728691769,Bin_3,762.7850095962418,Very Good,Sales
+79,Bin_5,Quantile_5,Elderly (65+),110922.33478110944,Quantile_5,Upper Middle ($75k-$150k),43.932631513836775,Bin_3,679.2957201075264,Good,Marketing
+19,Bin_1,Quantile_1,Young Adult (18-25),12737.180171243288,Quantile_1,Low Income (<$30k),46.81445080357286,Bin_3,811.2408621742632,Excellent,IT
+70,Bin_5,Quantile_5,Elderly (65+),7855.568605504918,Quantile_1,Low Income (<$30k),34.205367259299294,Bin_2,791.5902053365362,Very Good,Marketing
+61,Bin_4,Quantile_4,Senior (51-65),77113.03893578539,Quantile_5,Upper Middle ($75k-$150k),50.89009981784774,Bin_3,615.0734421924076,Fair,HR
+43,Bin_3,Quantile_2,Middle Age (36-50),37128.96773061368,Quantile_3,Middle Income ($30k-$75k),41.14533366215464,Bin_3,774.7825802837216,Very Good,HR
+49,Bin_3,Quantile_3,Middle Age (36-50),40210.85981714594,Quantile_3,Middle Income ($30k-$75k),49.501454709988316,Bin_3,748.2034450043926,Very Good,HR
+23,Bin_1,Quantile_1,Young Adult (18-25),27196.993918066666,Quantile_2,Low Income (<$30k),38.020468734316694,Bin_2,402.6437137086552,Poor,Marketing
+49,Bin_3,Quantile_3,Middle Age (36-50),30007.5803209803,Quantile_3,Middle Income ($30k-$75k),53.17278226731186,Bin_3,760.0936639629463,Very Good,Finance
+72,Bin_5,Quantile_5,Elderly (65+),25172.61755446825,Quantile_2,Low Income (<$30k),44.0134362702479,Bin_3,636.8204211359794,Fair,IT
+21,Bin_1,Quantile_1,Young Adult (18-25),22008.97614669852,Quantile_2,Low Income (<$30k),61.825070241770874,Bin_4,591.3957545668327,Fair,HR
+72,Bin_5,Quantile_5,Elderly (65+),26754.870810037613,Quantile_2,Low Income (<$30k),36.3047838317777,Bin_2,595.6739395706257,Fair,HR
+28,Bin_1,Quantile_1,Adult (26-35),26088.216308940533,Quantile_2,Low Income (<$30k),42.04549396090746,Bin_3,666.4757104367968,Fair,HR
+73,Bin_5,Quantile_5,Elderly (65+),18715.97999632938,Quantile_1,Low Income (<$30k),29.68423753129842,Bin_2,728.0059580086684,Good,IT
+76,Bin_5,Quantile_5,Elderly (65+),23479.069426032762,Quantile_2,Low Income (<$30k),34.7070176245378,Bin_2,543.453797780782,Poor,HR
+34,Bin_2,Quantile_2,Adult (26-35),4903.930878872826,Quantile_1,Low Income (<$30k),46.186865478479056,Bin_3,698.9847836212464,Good,IT
+55,Bin_4,Quantile_3,Senior (51-65),62800.214072241484,Quantile_4,Middle Income ($30k-$75k),51.293244375395005,Bin_3,737.6758066193072,Good,HR
+41,Bin_2,Quantile_2,Middle Age (36-50),49622.6476916557,Quantile_4,Middle Income ($30k-$75k),69.65010351720721,Bin_4,850.0,Excellent,Marketing
+22,Bin_1,Quantile_1,Young Adult (18-25),33930.6133318596,Quantile_3,Middle Income ($30k-$75k),39.03371093376779,Bin_2,572.330983077487,Poor,Marketing
+69,Bin_5,Quantile_4,Elderly (65+),43908.33778556907,Quantile_3,Middle Income ($30k-$75k),30.66786592354402,Bin_2,645.0387813222196,Fair,IT
+51,Bin_3,Quantile_3,Senior (51-65),45200.43196447826,Quantile_4,Middle Income ($30k-$75k),47.53325760377241,Bin_3,706.1662972696479,Good,Marketing
+23,Bin_1,Quantile_1,Young Adult (18-25),20349.234281468813,Quantile_2,Low Income (<$30k),28.72172779498694,Bin_2,794.7409330191606,Very Good,IT
+39,Bin_2,Quantile_2,Middle Age (36-50),23716.724615419127,Quantile_2,Low Income (<$30k),45.64277388026736,Bin_3,649.5776118828186,Fair,Marketing
+28,Bin_1,Quantile_1,Adult (26-35),55417.64299802679,Quantile_4,Middle Income ($30k-$75k),34.977442838058764,Bin_2,799.8641371991051,Very Good,Marketing
+65,Bin_4,Quantile_4,Senior (51-65),42873.22516861851,Quantile_3,Middle Income ($30k-$75k),42.115949703803935,Bin_3,486.263768352354,Poor,IT
+33,Bin_2,Quantile_2,Adult (26-35),186214.84965494857,Quantile_5,High Income (>$150k),50.910461021646675,Bin_3,554.6651806878114,Poor,Finance
+50,Bin_3,Quantile_3,Middle Age (36-50),132679.23460961363,Quantile_5,Upper Middle ($75k-$150k),38.89266570919304,Bin_2,714.864434433422,Good,Marketing
+26,Bin_1,Quantile_1,Adult (26-35),76604.39364018185,Quantile_5,Upper Middle ($75k-$150k),49.328790843286214,Bin_3,538.9175501912125,Poor,HR
+77,Bin_5,Quantile_5,Elderly (65+),19744.140986733553,Quantile_2,Low Income (<$30k),48.73158548619149,Bin_3,562.5529473233283,Poor,Finance
+76,Bin_5,Quantile_5,Elderly (65+),23117.71295783152,Quantile_2,Low Income (<$30k),21.356684716909054,Bin_1,627.222313575406,Fair,IT
+23,Bin_1,Quantile_1,Young Adult (18-25),16290.910954139841,Quantile_1,Low Income (<$30k),30.983992539644277,Bin_2,757.1438991915824,Very Good,Finance
+33,Bin_2,Quantile_2,Adult (26-35),45424.45429299282,Quantile_4,Middle Income ($30k-$75k),24.381931386045284,Bin_1,490.4035158692711,Poor,Sales
+46,Bin_3,Quantile_3,Middle Age (36-50),4053.0952377182616,Quantile_1,Low Income (<$30k),60.01737102530136,Bin_4,697.0298362162395,Good,Sales
+20,Bin_1,Quantile_1,Young Adult (18-25),25162.361820449092,Quantile_2,Low Income (<$30k),38.94608074562674,Bin_2,783.2963947152806,Very Good,Marketing
+37,Bin_2,Quantile_2,Middle Age (36-50),28413.705067351093,Quantile_2,Low Income (<$30k),57.80829212966643,Bin_4,660.5054791571041,Fair,Marketing
+77,Bin_5,Quantile_5,Elderly (65+),10727.518843925101,Quantile_1,Low Income (<$30k),23.670477194580165,Bin_1,643.116977040746,Fair,HR
+76,Bin_5,Quantile_5,Elderly (65+),68747.04629767036,Quantile_4,Middle Income ($30k-$75k),34.27231575451474,Bin_2,720.1771282558574,Good,Finance
+53,Bin_3,Quantile_3,Senior (51-65),14598.683277081207,Quantile_1,Low Income (<$30k),48.004982417659726,Bin_3,660.788894727856,Fair,Sales
+36,Bin_2,Quantile_2,Middle Age (36-50),44989.93749666873,Quantile_4,Middle Income ($30k-$75k),41.79274604426684,Bin_3,819.0499781240746,Excellent,Marketing
+43,Bin_3,Quantile_2,Middle Age (36-50),336725.029067526,Quantile_5,High Income (>$150k),45.32859892813459,Bin_3,568.8586987865565,Poor,Finance
+20,Bin_1,Quantile_1,Young Adult (18-25),10008.555057961461,Quantile_1,Low Income (<$30k),27.461917662067428,Bin_2,674.8355844834915,Good,Marketing
+36,Bin_2,Quantile_2,Middle Age (36-50),32246.309320292978,Quantile_3,Middle Income ($30k-$75k),53.76803492878929,Bin_3,700.5686374960684,Good,Marketing
+37,Bin_2,Quantile_2,Middle Age (36-50),26213.554148537754,Quantile_2,Low Income (<$30k),47.77016095757289,Bin_3,642.154594815354,Fair,Sales
+49,Bin_3,Quantile_3,Middle Age (36-50),22436.06655098835,Quantile_2,Low Income (<$30k),44.01625505491474,Bin_3,392.87173370425387,Poor,Sales
+24,Bin_1,Quantile_1,Young Adult (18-25),66716.05287319979,Quantile_4,Middle Income ($30k-$75k),33.14389718918192,Bin_2,663.9095091950807,Fair,Marketing
+69,Bin_5,Quantile_4,Elderly (65+),87997.46479193149,Quantile_5,Upper Middle ($75k-$150k),43.23800127605945,Bin_3,770.0176986912467,Very Good,IT
+58,Bin_4,Quantile_4,Senior (51-65),67326.58900732911,Quantile_4,Middle Income ($30k-$75k),37.0851002100651,Bin_2,757.8109186126018,Very Good,Marketing
+50,Bin_3,Quantile_3,Middle Age (36-50),20360.025722322178,Quantile_2,Low Income (<$30k),23.495087899622384,Bin_1,715.47784821702,Good,Marketing
+57,Bin_4,Quantile_4,Senior (51-65),254505.68756572803,Quantile_5,High Income (>$150k),39.49577148278512,Bin_2,570.2137641650777,Poor,HR
+56,Bin_4,Quantile_3,Senior (51-65),8811.433771447,Quantile_1,Low Income (<$30k),38.43269601777474,Bin_2,719.5309462458483,Good,HR
+35,Bin_2,Quantile_2,Adult (26-35),15897.17572023625,Quantile_1,Low Income (<$30k),50.6240150987512,Bin_3,622.6562178457762,Fair,HR
+57,Bin_4,Quantile_4,Senior (51-65),41597.004128419234,Quantile_3,Middle Income ($30k-$75k),17.655735576857975,Bin_1,715.3482905948666,Good,IT
+18,Bin_1,Quantile_1,Young Adult (18-25),39007.73096413742,Quantile_3,Middle Income ($30k-$75k),42.35199828854701,Bin_3,692.1505011401715,Good,IT
+28,Bin_1,Quantile_1,Adult (26-35),53660.65141077868,Quantile_4,Middle Income ($30k-$75k),28.444319518942827,Bin_2,582.3624728716628,Fair,Marketing
+45,Bin_3,Quantile_2,Middle Age (36-50),128554.37892029557,Quantile_5,Upper Middle ($75k-$150k),43.192233421955464,Bin_3,590.7544160643097,Fair,HR
+74,Bin_5,Quantile_5,Elderly (65+),32995.26233405939,Quantile_3,Middle Income ($30k-$75k),43.74280055577306,Bin_3,715.5022454421517,Good,IT
+42,Bin_2,Quantile_2,Middle Age (36-50),39774.59091481264,Quantile_3,Middle Income ($30k-$75k),39.131552228698084,Bin_2,657.8886904711499,Fair,Sales
+67,Bin_5,Quantile_4,Elderly (65+),22570.232201557996,Quantile_2,Low Income (<$30k),48.07293124811084,Bin_3,595.9718569342871,Fair,Marketing
+40,Bin_2,Quantile_2,Middle Age (36-50),58143.11875136445,Quantile_4,Middle Income ($30k-$75k),27.54233940900301,Bin_2,587.7169810273167,Fair,Finance
+48,Bin_3,Quantile_3,Middle Age (36-50),28147.594907969262,Quantile_2,Low Income (<$30k),51.077204502817004,Bin_3,649.6169152013784,Fair,Marketing
+47,Bin_3,Quantile_3,Middle Age (36-50),28134.570980521054,Quantile_2,Low Income (<$30k),32.91921133805859,Bin_2,836.810479471821,Excellent,Finance
+59,Bin_4,Quantile_4,Senior (51-65),56094.13397796692,Quantile_4,Middle Income ($30k-$75k),24.441013495101046,Bin_1,627.3921967788041,Fair,HR
+52,Bin_3,Quantile_3,Senior (51-65),83111.3656013868,Quantile_5,Upper Middle ($75k-$150k),37.27604029500191,Bin_2,678.5980461742412,Good,Finance
+24,Bin_1,Quantile_1,Young Adult (18-25),6207.507705241551,Quantile_1,Low Income (<$30k),19.048424773200146,Bin_1,690.164428768951,Good,HR
+77,Bin_5,Quantile_5,Elderly (65+),48466.239402182706,Quantile_4,Middle Income ($30k-$75k),42.541738922462024,Bin_3,566.8973608508057,Poor,Sales
+33,Bin_2,Quantile_2,Adult (26-35),29255.9235023524,Quantile_2,Low Income (<$30k),37.407495574197746,Bin_2,503.71675161573046,Poor,Finance
+43,Bin_3,Quantile_2,Middle Age (36-50),77504.6760871098,Quantile_5,Upper Middle ($75k-$150k),52.33686921376036,Bin_3,577.3359265264269,Poor,Marketing
+65,Bin_4,Quantile_4,Senior (51-65),29729.70279508295,Quantile_2,Low Income (<$30k),46.489242105069955,Bin_3,704.7077377806303,Good,HR
+74,Bin_5,Quantile_5,Elderly (65+),102830.97980043595,Quantile_5,Upper Middle ($75k-$150k),26.0800366281199,Bin_2,688.7331057915409,Good,Marketing
+69,Bin_5,Quantile_4,Elderly (65+),21138.886462674236,Quantile_2,Low Income (<$30k),31.61612508882115,Bin_2,750.2406569151066,Very Good,IT
+77,Bin_5,Quantile_5,Elderly (65+),6098.1216340620085,Quantile_1,Low Income (<$30k),45.20664420534209,Bin_3,689.6749894959116,Good,HR
+66,Bin_4,Quantile_4,Elderly (65+),84227.30478654995,Quantile_5,Upper Middle ($75k-$150k),48.47079009985035,Bin_3,669.0450708530797,Fair,Finance
+19,Bin_1,Quantile_1,Young Adult (18-25),18493.30456592095,Quantile_1,Low Income (<$30k),52.22500914886881,Bin_3,619.5987725074873,Fair,HR
+18,Bin_1,Quantile_1,Young Adult (18-25),10257.849030595828,Quantile_1,Low Income (<$30k),52.145092853053484,Bin_3,768.4606789862693,Very Good,Marketing
+65,Bin_4,Quantile_4,Senior (51-65),36784.9007743907,Quantile_3,Middle Income ($30k-$75k),39.10477389752094,Bin_2,588.0819861279283,Fair,Sales
+79,Bin_5,Quantile_5,Elderly (65+),29991.13350645053,Quantile_2,Low Income (<$30k),43.62655622251169,Bin_3,568.9600482703979,Poor,HR
+29,Bin_1,Quantile_1,Adult (26-35),70156.5168915265,Quantile_4,Middle Income ($30k-$75k),52.98738503943797,Bin_3,736.7055517388103,Good,Finance
+22,Bin_1,Quantile_1,Young Adult (18-25),74156.17756673126,Quantile_4,Middle Income ($30k-$75k),36.966915380640515,Bin_2,546.6842689346345,Poor,IT
+54,Bin_3,Quantile_3,Senior (51-65),39202.52185368777,Quantile_3,Middle Income ($30k-$75k),43.79726186940124,Bin_3,850.0,Excellent,Sales
+49,Bin_3,Quantile_3,Middle Age (36-50),17892.684953095708,Quantile_1,Low Income (<$30k),36.731192203203484,Bin_2,687.9993380559143,Good,IT
+76,Bin_5,Quantile_5,Elderly (65+),45686.26611092593,Quantile_4,Middle Income ($30k-$75k),34.49051885534573,Bin_2,714.7906116324885,Good,HR
+72,Bin_5,Quantile_5,Elderly (65+),41446.36679868282,Quantile_3,Middle Income ($30k-$75k),40.48385118285803,Bin_3,599.1580175476613,Fair,Marketing
+26,Bin_1,Quantile_1,Adult (26-35),57248.077471896984,Quantile_4,Middle Income ($30k-$75k),33.124565486604084,Bin_2,648.4735155758453,Fair,Marketing
+58,Bin_4,Quantile_4,Senior (51-65),18036.53368345508,Quantile_1,Low Income (<$30k),38.69084027230251,Bin_2,637.3242883117646,Fair,Finance
+52,Bin_3,Quantile_3,Senior (51-65),26362.60219914631,Quantile_2,Low Income (<$30k),29.650451354678673,Bin_2,625.8165012331358,Fair,Marketing
+36,Bin_2,Quantile_2,Middle Age (36-50),54584.35013420972,Quantile_4,Middle Income ($30k-$75k),38.100056128176206,Bin_2,743.2961751509827,Very Good,Sales
+65,Bin_4,Quantile_4,Senior (51-65),98504.90709920962,Quantile_5,Upper Middle ($75k-$150k),44.483902936158614,Bin_3,635.0423961774719,Fair,Marketing
+33,Bin_2,Quantile_2,Adult (26-35),78648.01001353569,Quantile_5,Upper Middle ($75k-$150k),34.112364637932046,Bin_2,781.7501229084181,Very Good,Finance
+20,Bin_1,Quantile_1,Young Adult (18-25),38779.37828889417,Quantile_3,Middle Income ($30k-$75k),40.092917525309126,Bin_3,850.0,Excellent,HR
+37,Bin_2,Quantile_2,Middle Age (36-50),24589.725716133133,Quantile_2,Low Income (<$30k),41.393425936212644,Bin_3,650.4458759853451,Fair,HR
+41,Bin_2,Quantile_2,Middle Age (36-50),50164.1770792077,Quantile_4,Middle Income ($30k-$75k),44.525348918213346,Bin_3,695.2315513576624,Good,Marketing
+71,Bin_5,Quantile_5,Elderly (65+),15167.157071991725,Quantile_1,Low Income (<$30k),38.66420158694784,Bin_2,717.9482057165508,Good,IT
+73,Bin_5,Quantile_5,Elderly (65+),18890.20567724805,Quantile_1,Low Income (<$30k),50.85866341867806,Bin_3,850.0,Excellent,HR
+50,Bin_3,Quantile_3,Middle Age (36-50),121517.9235688066,Quantile_5,Upper Middle ($75k-$150k),18.99081138548082,Bin_1,671.7352214961811,Good,Marketing
+41,Bin_2,Quantile_2,Middle Age (36-50),50092.55053181853,Quantile_4,Middle Income ($30k-$75k),69.37752847167773,Bin_4,597.0983080341638,Fair,Finance
+69,Bin_5,Quantile_4,Elderly (65+),27501.026575652315,Quantile_2,Low Income (<$30k),31.288662359624833,Bin_2,553.3659494374295,Poor,Marketing
+28,Bin_1,Quantile_1,Adult (26-35),70495.9787148742,Quantile_4,Middle Income ($30k-$75k),44.03390023354078,Bin_3,674.2016052567766,Good,HR
+66,Bin_4,Quantile_4,Elderly (65+),101679.39655298808,Quantile_5,Upper Middle ($75k-$150k),30.615320897941515,Bin_2,635.1619780946118,Fair,Finance
+25,Bin_1,Quantile_1,Young Adult (18-25),25445.39222193615,Quantile_2,Low Income (<$30k),46.44268159509302,Bin_3,850.0,Excellent,Marketing
+53,Bin_3,Quantile_3,Senior (51-65),25798.552019006584,Quantile_2,Low Income (<$30k),42.76569152594928,Bin_3,850.0,Excellent,Sales
+55,Bin_4,Quantile_3,Senior (51-65),23339.054176911002,Quantile_2,Low Income (<$30k),33.49286462654911,Bin_2,576.5627172076402,Poor,Finance
+57,Bin_4,Quantile_4,Senior (51-65),78517.77058046077,Quantile_5,Upper Middle ($75k-$150k),50.73087345410313,Bin_3,608.9239896450822,Fair,Sales
+37,Bin_2,Quantile_2,Middle Age (36-50),79129.8899629161,Quantile_5,Upper Middle ($75k-$150k),38.36039120398079,Bin_2,687.3770107886886,Good,IT
+79,Bin_5,Quantile_5,Elderly (65+),110053.58439548555,Quantile_5,Upper Middle ($75k-$150k),45.47215938057004,Bin_3,819.7226422558763,Excellent,Finance
+52,Bin_3,Quantile_3,Senior (51-65),81379.79966900387,Quantile_5,Upper Middle ($75k-$150k),30.82840194803964,Bin_2,685.7013136371052,Good,Sales
+65,Bin_4,Quantile_4,Senior (51-65),9840.143137724192,Quantile_1,Low Income (<$30k),39.6911236442842,Bin_2,615.2759362011953,Fair,HR
+79,Bin_5,Quantile_5,Elderly (65+),45468.33627929598,Quantile_4,Middle Income ($30k-$75k),60.03407267182105,Bin_4,674.1118190097276,Good,HR
+42,Bin_2,Quantile_2,Middle Age (36-50),15572.965011043672,Quantile_1,Low Income (<$30k),49.6296552911413,Bin_3,617.1515136103953,Fair,IT
+52,Bin_3,Quantile_3,Senior (51-65),24092.804345547993,Quantile_2,Low Income (<$30k),43.07620755451052,Bin_3,740.2477209439483,Very Good,Finance
+42,Bin_2,Quantile_2,Middle Age (36-50),41625.79652621944,Quantile_3,Middle Income ($30k-$75k),35.51079172390204,Bin_2,609.0966288335295,Fair,Finance
+46,Bin_3,Quantile_3,Middle Age (36-50),70859.35802976429,Quantile_4,Middle Income ($30k-$75k),40.674985358750085,Bin_3,628.9563947573033,Fair,Finance
+35,Bin_2,Quantile_2,Adult (26-35),17806.615526764388,Quantile_1,Low Income (<$30k),41.97565990172382,Bin_3,796.1933813456096,Very Good,IT
+63,Bin_4,Quantile_4,Senior (51-65),5654.5978436382275,Quantile_1,Low Income (<$30k),44.492284349197455,Bin_3,603.1635052685928,Fair,Finance
+35,Bin_2,Quantile_2,Adult (26-35),41958.01160190984,Quantile_3,Middle Income ($30k-$75k),29.233394918223343,Bin_2,535.3871967439838,Poor,HR
+19,Bin_1,Quantile_1,Young Adult (18-25),300997.50862964644,Quantile_5,High Income (>$150k),46.68407960942365,Bin_3,689.4993751356304,Good,Sales
+71,Bin_5,Quantile_5,Elderly (65+),30875.646848325723,Quantile_3,Middle Income ($30k-$75k),29.104069017053472,Bin_2,643.9526595795404,Fair,HR
+52,Bin_3,Quantile_3,Senior (51-65),37704.4101974941,Quantile_3,Middle Income ($30k-$75k),56.31125852281872,Bin_4,731.1415500929953,Good,HR
+33,Bin_2,Quantile_2,Adult (26-35),151105.09919246932,Quantile_5,High Income (>$150k),32.283716775831216,Bin_2,711.7471934731091,Good,Sales
+78,Bin_5,Quantile_5,Elderly (65+),58233.71114051057,Quantile_4,Middle Income ($30k-$75k),42.96628319676176,Bin_3,676.8081505356638,Good,HR
+58,Bin_4,Quantile_4,Senior (51-65),43195.380238333026,Quantile_3,Middle Income ($30k-$75k),50.05142573278018,Bin_3,673.8956574530005,Good,IT
+53,Bin_3,Quantile_3,Senior (51-65),51724.83601323554,Quantile_4,Middle Income ($30k-$75k),37.4761995653555,Bin_2,606.4141550677165,Fair,Sales
+50,Bin_3,Quantile_3,Middle Age (36-50),44364.51184525094,Quantile_3,Middle Income ($30k-$75k),43.40600019099858,Bin_3,688.3347070993243,Good,HR
+21,Bin_1,Quantile_1,Young Adult (18-25),14591.529344972847,Quantile_1,Low Income (<$30k),54.35181549190052,Bin_3,768.1284781432769,Very Good,Marketing
+50,Bin_3,Quantile_3,Middle Age (36-50),12417.274336075494,Quantile_1,Low Income (<$30k),45.64402987893266,Bin_3,582.6553258600524,Fair,HR
+31,Bin_2,Quantile_1,Adult (26-35),164302.166420526,Quantile_5,High Income (>$150k),43.55550629674353,Bin_3,679.4602623638466,Good,IT
+38,Bin_2,Quantile_2,Middle Age (36-50),42070.694368537545,Quantile_3,Middle Income ($30k-$75k),23.15214605179538,Bin_1,783.8388755734611,Very Good,Finance
+65,Bin_4,Quantile_4,Senior (51-65),39343.11829540837,Quantile_3,Middle Income ($30k-$75k),30.662777472597774,Bin_2,730.5424093216699,Good,HR
+37,Bin_2,Quantile_2,Middle Age (36-50),33786.54308973077,Quantile_3,Middle Income ($30k-$75k),50.469201276500115,Bin_3,810.9472896350712,Excellent,Finance
+73,Bin_5,Quantile_5,Elderly (65+),67836.69923198361,Quantile_4,Middle Income ($30k-$75k),45.69950305341382,Bin_3,623.1857670165665,Fair,Marketing
+25,Bin_1,Quantile_1,Young Adult (18-25),276772.9797331875,Quantile_5,High Income (>$150k),47.214662737850745,Bin_3,496.9231551605134,Poor,HR
+24,Bin_1,Quantile_1,Young Adult (18-25),55224.508797784525,Quantile_4,Middle Income ($30k-$75k),46.35396932214897,Bin_3,700.0651803955687,Good,Sales
+20,Bin_1,Quantile_1,Young Adult (18-25),22686.618561037827,Quantile_2,Low Income (<$30k),52.89756528375374,Bin_3,716.2570815026485,Good,Finance
+34,Bin_2,Quantile_2,Adult (26-35),32639.526873857765,Quantile_3,Middle Income ($30k-$75k),37.38600075044877,Bin_2,816.8421954472675,Excellent,Marketing
+50,Bin_3,Quantile_3,Middle Age (36-50),85544.94366910263,Quantile_5,Upper Middle ($75k-$150k),41.20499958789301,Bin_3,798.8145734706984,Very Good,Sales
+65,Bin_4,Quantile_4,Senior (51-65),22782.7629685084,Quantile_2,Low Income (<$30k),29.71325666870916,Bin_2,733.6743623012461,Good,Sales
+29,Bin_1,Quantile_1,Adult (26-35),71811.30480816076,Quantile_4,Middle Income ($30k-$75k),27.219774165636238,Bin_2,756.5390214170434,Very Good,Sales
+76,Bin_5,Quantile_5,Elderly (65+),5672.641157173731,Quantile_1,Low Income (<$30k),23.562592844119422,Bin_1,660.8178541793361,Fair,Sales
+68,Bin_5,Quantile_4,Elderly (65+),30215.077774937185,Quantile_3,Middle Income ($30k-$75k),31.148365010001523,Bin_2,558.0885388680783,Poor,HR
+39,Bin_2,Quantile_2,Middle Age (36-50),60024.73527203102,Quantile_4,Middle Income ($30k-$75k),55.52561815489642,Bin_4,691.7721217380911,Good,HR
+72,Bin_5,Quantile_5,Elderly (65+),100318.0017853294,Quantile_5,Upper Middle ($75k-$150k),24.472729321839623,Bin_1,778.2573463627778,Very Good,HR
+39,Bin_2,Quantile_2,Middle Age (36-50),18867.96192369621,Quantile_1,Low Income (<$30k),36.96464014422802,Bin_2,745.6360869828549,Very Good,Marketing
+63,Bin_4,Quantile_4,Senior (51-65),10913.850895580425,Quantile_1,Low Income (<$30k),27.06854676353842,Bin_2,763.3807339159365,Very Good,Marketing
+47,Bin_3,Quantile_3,Middle Age (36-50),29478.364547537272,Quantile_2,Low Income (<$30k),33.99026036996639,Bin_2,637.2244312953248,Fair,Marketing
+55,Bin_4,Quantile_3,Senior (51-65),14759.833148707936,Quantile_1,Low Income (<$30k),41.696937923520196,Bin_3,653.4453161981576,Fair,IT
+55,Bin_4,Quantile_3,Senior (51-65),32233.793430159603,Quantile_3,Middle Income ($30k-$75k),32.99884126794992,Bin_2,728.3425488114603,Good,Marketing
+62,Bin_4,Quantile_4,Senior (51-65),36122.717365169585,Quantile_3,Middle Income ($30k-$75k),50.896648650164614,Bin_3,625.3492605491246,Fair,HR
+68,Bin_5,Quantile_4,Elderly (65+),12640.78744770642,Quantile_1,Low Income (<$30k),55.339781208495666,Bin_4,628.4282930066997,Fair,HR
+71,Bin_5,Quantile_5,Elderly (65+),69116.67434430368,Quantile_4,Middle Income ($30k-$75k),17.509042719440608,Bin_1,709.7982236377452,Good,IT
+25,Bin_1,Quantile_1,Young Adult (18-25),32023.61522229582,Quantile_3,Middle Income ($30k-$75k),33.17007669648877,Bin_2,756.0904743156908,Very Good,IT
+44,Bin_3,Quantile_2,Middle Age (36-50),86195.03834602649,Quantile_5,Upper Middle ($75k-$150k),40.59142122272422,Bin_3,660.0471326670591,Fair,Marketing
+44,Bin_3,Quantile_2,Middle Age (36-50),8300.539633562694,Quantile_1,Low Income (<$30k),51.261170260153804,Bin_3,563.6810538946361,Poor,Finance
+51,Bin_3,Quantile_3,Senior (51-65),16094.71544019192,Quantile_1,Low Income (<$30k),35.457557248467374,Bin_2,606.4196084957171,Fair,IT
+38,Bin_2,Quantile_2,Middle Age (36-50),54903.66850876858,Quantile_4,Middle Income ($30k-$75k),39.800646047541896,Bin_2,700.3672084893099,Good,Sales
+47,Bin_3,Quantile_3,Middle Age (36-50),19162.519548820568,Quantile_1,Low Income (<$30k),28.432557749480516,Bin_2,699.1520963865964,Good,HR
+50,Bin_3,Quantile_3,Middle Age (36-50),31836.588004714147,Quantile_3,Middle Income ($30k-$75k),24.672041477376546,Bin_1,704.1238137655348,Good,Sales
+45,Bin_3,Quantile_2,Middle Age (36-50),36335.819399642554,Quantile_3,Middle Income ($30k-$75k),54.45384689582934,Bin_3,732.1295290595756,Good,HR
+64,Bin_4,Quantile_4,Senior (51-65),41216.94696078825,Quantile_3,Middle Income ($30k-$75k),21.759301261070632,Bin_1,680.581055854245,Good,HR
+50,Bin_3,Quantile_3,Middle Age (36-50),21119.39369559165,Quantile_2,Low Income (<$30k),63.28619008421566,Bin_4,706.5056044840312,Good,IT
+22,Bin_1,Quantile_1,Young Adult (18-25),40922.25191871396,Quantile_3,Middle Income ($30k-$75k),47.25151399381741,Bin_3,675.4973177171133,Good,IT
+77,Bin_5,Quantile_5,Elderly (65+),19418.180314100195,Quantile_2,Low Income (<$30k),46.79973075516756,Bin_3,794.8733482929439,Very Good,Sales
+78,Bin_5,Quantile_5,Elderly (65+),62281.79051653966,Quantile_4,Middle Income ($30k-$75k),45.7546866749443,Bin_3,823.2342031217502,Excellent,HR
+65,Bin_4,Quantile_4,Senior (51-65),33127.69055903121,Quantile_3,Middle Income ($30k-$75k),37.47314311999036,Bin_2,561.0988717619965,Poor,Sales
+36,Bin_2,Quantile_2,Middle Age (36-50),41110.92987696883,Quantile_3,Middle Income ($30k-$75k),43.9208452970087,Bin_3,654.4748057897747,Fair,Finance
+21,Bin_1,Quantile_1,Young Adult (18-25),283776.28326998086,Quantile_5,High Income (>$150k),38.11103312215525,Bin_2,683.2724491540707,Good,Sales
+52,Bin_3,Quantile_3,Senior (51-65),14977.680964668645,Quantile_1,Low Income (<$30k),45.530732764404796,Bin_3,653.3085287985679,Fair,Marketing
+66,Bin_4,Quantile_4,Elderly (65+),110289.69956295368,Quantile_5,Upper Middle ($75k-$150k),39.66313473091284,Bin_2,850.0,Excellent,Sales
+34,Bin_2,Quantile_2,Adult (26-35),4326.520483056744,Quantile_1,Low Income (<$30k),30.496518168982654,Bin_2,702.3955278089735,Good,Marketing
+61,Bin_4,Quantile_4,Senior (51-65),6886.3651891809695,Quantile_1,Low Income (<$30k),31.294273837382438,Bin_2,599.4628172949656,Fair,Marketing
+45,Bin_3,Quantile_2,Middle Age (36-50),13460.139105124275,Quantile_1,Low Income (<$30k),30.157276247074964,Bin_2,739.6442339560671,Good,Marketing
+47,Bin_3,Quantile_3,Middle Age (36-50),14157.181598462004,Quantile_1,Low Income (<$30k),49.709007319343094,Bin_3,707.0974538846193,Good,Finance
+46,Bin_3,Quantile_3,Middle Age (36-50),42743.03078538025,Quantile_3,Middle Income ($30k-$75k),33.82553387540902,Bin_2,710.4192919553421,Good,Sales
+63,Bin_4,Quantile_4,Senior (51-65),45792.418036096,Quantile_4,Middle Income ($30k-$75k),20.878968389151396,Bin_1,850.0,Excellent,Sales
+70,Bin_5,Quantile_5,Elderly (65+),29618.160580483913,Quantile_2,Low Income (<$30k),43.96838665848805,Bin_3,715.0785175754809,Good,Finance
+23,Bin_1,Quantile_1,Young Adult (18-25),32212.10609602078,Quantile_3,Middle Income ($30k-$75k),55.14517562589582,Bin_4,649.6338476126004,Fair,HR
+52,Bin_3,Quantile_3,Senior (51-65),55393.182674443706,Quantile_4,Middle Income ($30k-$75k),47.73083189177527,Bin_3,484.4723573689899,Poor,IT
+77,Bin_5,Quantile_5,Elderly (65+),70726.74734825954,Quantile_4,Middle Income ($30k-$75k),33.96676434778288,Bin_2,663.4600981856488,Fair,Sales
+58,Bin_4,Quantile_4,Senior (51-65),12566.235666849958,Quantile_1,Low Income (<$30k),24.13188284404911,Bin_1,810.5969917327188,Excellent,IT
+54,Bin_3,Quantile_3,Senior (51-65),27186.810402771574,Quantile_2,Low Income (<$30k),38.657318966424896,Bin_2,670.8830880443813,Good,Finance
+41,Bin_2,Quantile_2,Middle Age (36-50),34348.9985066558,Quantile_3,Middle Income ($30k-$75k),38.4077612190329,Bin_2,455.9950101480497,Poor,HR
+46,Bin_3,Quantile_3,Middle Age (36-50),53543.6665540587,Quantile_4,Middle Income ($30k-$75k),30.30800389686234,Bin_2,630.1637607807553,Fair,HR
+66,Bin_4,Quantile_4,Elderly (65+),19572.21595418107,Quantile_2,Low Income (<$30k),45.51037302242538,Bin_3,779.2688538912793,Very Good,HR
+63,Bin_4,Quantile_4,Senior (51-65),33813.75865776961,Quantile_3,Middle Income ($30k-$75k),58.46626500830473,Bin_4,734.5817174562015,Good,Finance
+70,Bin_5,Quantile_5,Elderly (65+),37197.13077646698,Quantile_3,Middle Income ($30k-$75k),42.22282717458284,Bin_3,596.0119103489264,Fair,Marketing
+48,Bin_3,Quantile_3,Middle Age (36-50),20669.695420628213,Quantile_2,Low Income (<$30k),41.60476206998845,Bin_3,623.4715223600919,Fair,Marketing
+52,Bin_3,Quantile_3,Senior (51-65),20279.136543367775,Quantile_2,Low Income (<$30k),30.627719511661773,Bin_2,638.9291340897583,Fair,IT
+77,Bin_5,Quantile_5,Elderly (65+),39300.66119868591,Quantile_3,Middle Income ($30k-$75k),53.97414703060372,Bin_3,613.728622813707,Fair,Marketing
+50,Bin_3,Quantile_3,Middle Age (36-50),32719.414071635256,Quantile_3,Middle Income ($30k-$75k),39.24855833189983,Bin_2,477.0326132260418,Poor,Marketing
+69,Bin_5,Quantile_4,Elderly (65+),54197.0639630213,Quantile_4,Middle Income ($30k-$75k),34.21036744805829,Bin_2,756.3591100619856,Very Good,HR
+78,Bin_5,Quantile_5,Elderly (65+),15636.966281042742,Quantile_1,Low Income (<$30k),40.636883936516156,Bin_3,805.7059956689093,Excellent,HR
+38,Bin_2,Quantile_2,Middle Age (36-50),27431.70602803438,Quantile_2,Low Income (<$30k),44.71961333246609,Bin_3,528.155105603526,Poor,IT
+49,Bin_3,Quantile_3,Middle Age (36-50),30231.120676607094,Quantile_3,Middle Income ($30k-$75k),41.39215408644903,Bin_3,804.3852932586315,Excellent,Sales
+40,Bin_2,Quantile_2,Middle Age (36-50),69639.77245980277,Quantile_4,Middle Income ($30k-$75k),52.061533956705915,Bin_3,669.6976798602784,Fair,IT
+50,Bin_3,Quantile_3,Middle Age (36-50),17114.288533650673,Quantile_1,Low Income (<$30k),43.83971552546862,Bin_3,802.5132348167874,Excellent,IT
+20,Bin_1,Quantile_1,Young Adult (18-25),43814.56626143078,Quantile_3,Middle Income ($30k-$75k),37.16058189117465,Bin_2,683.7950436290446,Good,Finance
+35,Bin_2,Quantile_2,Adult (26-35),44453.74129561415,Quantile_4,Middle Income ($30k-$75k),44.0119221632689,Bin_3,693.554459215863,Good,Finance
+42,Bin_2,Quantile_2,Middle Age (36-50),135552.97389350933,Quantile_5,Upper Middle ($75k-$150k),44.996371011259576,Bin_3,717.2434646982213,Good,IT
+59,Bin_4,Quantile_4,Senior (51-65),16225.323967528622,Quantile_1,Low Income (<$30k),27.03624080736158,Bin_2,600.9933674864722,Fair,IT
+48,Bin_3,Quantile_3,Middle Age (36-50),21465.73765412285,Quantile_2,Low Income (<$30k),51.494197282637145,Bin_3,799.4674144328021,Very Good,IT
+71,Bin_5,Quantile_5,Elderly (65+),17156.209451755458,Quantile_1,Low Income (<$30k),36.99095980638641,Bin_2,567.8619361925215,Poor,Marketing
+75,Bin_5,Quantile_5,Elderly (65+),9548.856254208546,Quantile_1,Low Income (<$30k),37.2467677649457,Bin_2,639.793325548333,Fair,Finance
+20,Bin_1,Quantile_1,Young Adult (18-25),149007.14658128668,Quantile_5,Upper Middle ($75k-$150k),47.51375987075946,Bin_3,732.4264677643168,Good,IT
+57,Bin_4,Quantile_4,Senior (51-65),13450.869304425503,Quantile_1,Low Income (<$30k),47.471652242595816,Bin_3,629.0804759514536,Fair,HR
+63,Bin_4,Quantile_4,Senior (51-65),18900.72712927544,Quantile_1,Low Income (<$30k),32.991683211339144,Bin_2,757.7531240814944,Very Good,HR
+41,Bin_2,Quantile_2,Middle Age (36-50),104048.58230800884,Quantile_5,Upper Middle ($75k-$150k),48.02901618145686,Bin_3,817.5866173183956,Excellent,Marketing
+67,Bin_5,Quantile_4,Elderly (65+),8933.06073341866,Quantile_1,Low Income (<$30k),34.39551848510476,Bin_2,781.2546001053837,Very Good,Marketing
+49,Bin_3,Quantile_3,Middle Age (36-50),66508.24842577685,Quantile_4,Middle Income ($30k-$75k),58.195730466986554,Bin_4,486.38846863213786,Poor,Sales
+64,Bin_4,Quantile_4,Senior (51-65),11726.195194994169,Quantile_1,Low Income (<$30k),31.718060187342363,Bin_2,692.5846969619357,Good,Sales
