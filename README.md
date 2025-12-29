@@ -2,6 +2,48 @@
 
 ## Data Preprocessing and Feature Engineering Tasks
 
+## Setup Instructions
+
+### 1. Create and Activate Virtual Environment
+
+**Windows:**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+**Linux/Mac:**
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run Individual Tasks
+Execute any task script:
+```bash
+python task1_outlier_detection.py
+python task2_feature_binning.py
+python task3_advanced_imputation.py
+python task4_interaction_features.py
+python task5_ordinal_encoding.py
+python task6_temporal_features.py
+python task7_imbalanced_data.py
+```
+
+### 4. Launch Streamlit Dashboard
+To view all task results interactively:
+```bash
+streamlit run app.py
+```
+The dashboard will open in your browser at `http://localhost:8501`
+
+---
+
 ### Task 1: Outlier Detection and Treatment
 You are provided with a dataset that contains numerical features with potential outliers. Your task is to detect and handle outliers using multiple approaches:
 
